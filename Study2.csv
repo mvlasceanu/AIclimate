@@ -1,0 +1,701 @@
+ID,age,ZIP,education,gender,Condition,cond,ide,ide_inverse,ide_ms,change1,change2,change3,change4,change5,change6,change7,change8,change9,Affect,emotion
+201,32,90046,Graduate degree,0,Low,1,78,22,aLiberal,2,3,-6,7,0,1,0,7,3,12.77,8.51
+202,50,46808,Some college,1,Low,1,46,54,Conservative,-16,-38,-30,0,-60,10,39,38,11,16.67,16.67
+203,23,33068,High school diploma,0,Low,1,5,95,Conservative,-17,52,-13,-7,-14,4,-17,3,-8,0,0
+204,66,38824,High school diploma,1,Low,1,30,70,Conservative,6,9,23,-76,-69,-9,-29,-5,8,1.35,0
+205,35,90012,Some college,0,Low,1,91,9,aLiberal,15,1,1,2,10,13,13,8,2,33.33,0
+206,35,98013,Graduate degree,0,Low,1,90,10,aLiberal,3,0,2,-1,-1,-2,-1,2,-2,0,0
+207,36,10080,Graduate degree,1,Low,1,96,4,aLiberal,1,23,-7,-10,-34,3,-11,-11,-11,0,0
+208,36,90001,College degree,0,Low,1,61,39,aLiberal,10,2,1,7,8,5,2,0,7,28,4
+209,70,28601,Some college,1,Low,1,73,27,aLiberal,11,3,-9,-4,6,-7,-19,17,-20,1.39,1.39
+210,22,12534,Some college,0,Low,1,92,8,aLiberal,2,11,-4,3,3,12,3,-3,2,20,0
+211,22,32817,Graduate degree,1,Low,1,100,0,aLiberal,-30,44,43,-16,54,-1,35,48,41,37.5,12.5
+212,59,53217,Some college,0,Low,1,55,45,aLiberal,1,10,-2,12,7,-6,0,-7,-2,3.77,0
+213,71,94607,College degree,1,Low,1,6,94,Conservative,-13,-8,13,3,-11,3,6,1,-9,0,0
+214,73,38583,College degree,1,Low,1,89,11,aLiberal,0,0,2,0,-9,1,0,0,2,3.85,1.28
+215,35,98013,Graduate degree,0,Low,1,85,15,aLiberal,-3,-3,0,3,-4,-4,-1,4,0,0,0
+216,72,33412,Some college,1,Low,1,60,40,aLiberal,-3,-5,-2,-6,-5,-4,-3,-2,-6,0,0
+217,28,10001,Graduate degree,1,Low,1,44,56,Conservative,0,6,0,9,9,8,-2,-7,2,10,6
+218,68,97603,Some high school,1,Low,1,24,76,Conservative,-11,-6,-22,7,12,-1,16,0,1,3.7,0
+219,72,79414,Some college,1,Low,1,52,48,aLiberal,-1,5,10,1,-8,11,0,9,9,3.43,0
+220,70,3740,College degree,1,Low,1,50,50,Conservative,38,14,19,0,38,0,0,0,35,6.04,4.03
+221,61,8558,College degree,1,Low,1,52,48,aLiberal,16,13,3,0,13,8,-3,15,13,4.55,0
+222,35,10013,Graduate degree,0,Low,1,100,0,aLiberal,-16,3,-1,2,-18,-6,10,-19,1,7.69,0
+223,66,73096,College degree,1,Low,1,4,96,Conservative,20,-10,16,18,-4,16,5,5,1,0,0
+224,40,29646,High school diploma,0,Low,1,51,49,aLiberal,0,0,0,0,-1,0,0,0,0,2.38,0
+225,60,15235,Graduate degree,1,Low,1,50,50,Conservative,3,2,-15,-2,-35,-7,-4,-46,-5,10,10
+226,69,85710,Some college,1,Low,1,24,76,Conservative,12,-21,7,-12,-12,7,14,11,0,0,0
+227,28,10003,Graduate degree,1,Low,1,79,21,aLiberal,-8,-1,0,0,-9,-5,0,-7,-2,20,13.33
+228,30,94536,Graduate degree,0,Low,1,96,4,aLiberal,4,-1,2,9,8,-3,3,3,0,0,0
+229,73,74011,College degree,0,Low,1,18,82,Conservative,0,0,-1,-1,0,30,-11,22,0,3.57,3.57
+230,70,33351,Graduate degree,0,Low,1,30,70,Conservative,0,2,0,0,0,0,18,0,30,1.43,0
+231,29,19107,College degree,0,Low,1,50,50,Conservative,0,-8,50,0,0,0,50,0,50,6.67,0
+232,53,91316,Some college,1,Low,1,57,43,aLiberal,14,-13,11,-2,21,-14,15,2,14,0,0
+233,73,27407,High school diploma,0,Low,1,50,50,Conservative,2,11,0,0,0,0,-5,0,9,0,0
+234,29,60613,College degree,0,Low,1,51,49,aLiberal,-19,3,7,4,-33,7,17,12,-14,3.7,0
+235,42,10035,Graduate degree,0,Low,1,82,18,aLiberal,8,-1,-1,-2,-2,-4,1,2,2,35.29,21.57
+236,73,32583,Some college,0,Low,1,50,50,Conservative,0,0,0,0,0,0,0,0,0,2.68,0
+237,56,97306,High school diploma,1,Low,1,18,82,Conservative,-5,10,-3,-16,-16,1,-1,5,-13,2.82,1.41
+238,21,93063,Some college,1,Low,1,100,0,aLiberal,-4,1,-4,-13,-8,-10,-9,-10,2,0,0
+239,73,19975,High school diploma,0,Low,1,30,70,Conservative,0,0,0,0,0,0,0,0,0,0,0
+240,60,80524,Graduate degree,0,Low,1,93,7,aLiberal,0,0,0,0,0,0,0,0,0,16.67,16.67
+241,68,20147,Some college,0,Low,1,71,29,aLiberal,1,3,0,0,0,0,9,0,9,5.88,0
+242,42,34743,College degree,1,Low,1,62,38,aLiberal,-6,17,-2,-45,6,4,-10,-5,-41,0,0
+243,70,78640,Some college,1,Low,1,0,100,Conservative,0,-3,4,10,7,-28,0,-49,16,6.56,1.64
+244,61,1040,Some college,0,Low,1,29,71,Conservative,-6,1,0,1,6,-4,-4,-2,7,15.38,3.85
+245,73,92109,College degree,1,Low,1,0,100,Conservative,13,13,-4,12,-8,-19,11,3,15,3.85,0
+246,68,59602,High school diploma,1,Low,1,94,6,aLiberal,0,2,-19,0,-21,-7,0,0,-9,7.07,1.01
+247,52,80134,Some college,1,Low,1,100,0,aLiberal,1,18,-4,-6,7,0,-10,0,9,5.56,0
+248,69,85705,College degree,1,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,0,14.81,3.7
+249,44,72837,Some college,1,Low,1,10,90,Conservative,17,-9,-20,-20,-60,-1,1,2,0,50,37.5
+250,72,37604,College degree,1,Low,1,44,56,Conservative,-3,9,-1,-63,2,-9,8,-6,13,1.43,0
+251,67,61615,Some college,1,Low,1,53,47,aLiberal,-1,-38,-35,-4,-60,7,-3,1,-20,2.8,0
+252,71,43220,College degree,0,Low,1,80,20,aLiberal,0,0,0,0,-1,0,8,0,6,22.22,16.67
+253,67,44718,College degree,1,Low,1,50,50,Conservative,0,19,0,22,0,9,10,0,0,0,0
+254,72,37310,College degree,0,Low,1,31,69,Conservative,0,2,0,10,0,-10,0,-11,0,3.03,1.52
+255,59,12210,High school diploma,1,Low,1,23,77,Conservative,0,-26,0,4,0,-32,0,-28,0,10,0
+256,62,19602,High school diploma,0,Low,1,69,31,aLiberal,-20,1,31,2,-9,23,21,1,7,0,0
+257,22,31907,Some college,1,Low,1,89,11,aLiberal,83,0,43,-28,-9,0,14,0,20,0,0
+258,55,80227,College degree,0,Low,1,40,60,Conservative,16,5,-9,0,-2,5,17,-3,-23,0,0
+259,66,46260,College degree,1,Low,1,60,40,aLiberal,39,0,0,0,19,0,0,1,1,3.57,0
+260,25,68105,Some college,1,Low,1,68,32,aLiberal,-9,-1,1,-6,2,-17,2,15,5,2.38,0.48
+261,69,23663,College degree,0,Low,1,100,0,aLiberal,-31,-5,-27,-5,-19,-12,-13,-23,-22,0,0
+262,68,7043,Graduate degree,0,Low,1,67,33,aLiberal,3,1,-4,0,2,-3,-5,-4,3,6.67,4.44
+263,72,1020,Some college,0,Low,1,51,49,aLiberal,0,-3,0,3,16,1,27,7,0,0,0
+264,52,71909,Graduate degree,0,Low,1,8,92,Conservative,0,0,0,0,0,0,0,0,0,0,0
+265,42,64093,Some college,1,Low,1,88,12,aLiberal,75,-5,-4,-2,-14,-1,-4,1,0,0,0
+266,34,60629,Some college,1,Low,1,52,48,aLiberal,-6,0,-14,0,0,0,-43,0,0,0,0
+267,32,30519,Some college,1,Low,1,65,35,aLiberal,2,5,-6,27,10,0,1,16,33,0,0
+268,69,72022,College degree,0,Low,1,6,94,Conservative,0,0,0,0,0,-1,0,0,0,6.38,2.13
+269,50,86335,Some college,1,Low,1,51,49,aLiberal,-1,19,9,17,3,30,7,0,2,7.14,2.38
+270,22,49446,Some college,1,Low,1,80,20,aLiberal,4,-25,4,-2,4,40,14,52,-4,0,0
+271,40,91790,Some college,0,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,0,19.35,0
+272,38,54601,High school diploma,1,Low,1,50,50,Conservative,2,10,13,-6,6,40,26,14,5,0,0
+273,26,94114,College degree,0,Low,1,9,91,Conservative,-2,3,-3,-6,-4,-2,-2,2,3,9.84,0
+274,35,90201,Some college,0,Low,1,100,0,aLiberal,-8,0,-4,-2,-2,0,-7,-8,-8,33.33,8.33
+275,32,17821,High school diploma,1,Low,1,51,49,aLiberal,-9,-5,3,-2,-14,10,14,10,-4,0,0
+276,73,28457,Some college,1,Low,1,82,18,aLiberal,5,11,1,4,14,0,-13,0,2,17.65,11.76
+277,58,29572,College degree,0,Low,1,53,47,aLiberal,-3,1,5,2,-4,-2,7,-10,10,11.11,0
+278,32,20164,College degree,1,Low,1,0,100,Conservative,0,0,0,0,0,0,0,0,0,0,0
+279,74,48170,College degree,1,Low,1,82,18,aLiberal,10,0,2,0,-7,-5,0,0,2,1.52,0
+280,45,66604,Some college,1,Low,1,37,63,Conservative,0,8,6,1,12,19,12,18,-26,5.88,2.94
+281,68,74059,Some college,1,Low,1,60,40,aLiberal,0,22,12,0,0,0,0,0,9,1.85,1.85
+282,66,55376,College degree,0,Low,1,0,100,Conservative,0,-9,59,0,0,-1,-9,6,0,6.25,2.08
+283,70,5758,Some college,1,Low,1,13,87,Conservative,-20,24,-15,26,-19,9,7,19,-10,0.6,0.6
+284,47,17361,Graduate degree,1,Low,1,87,13,aLiberal,-4,4,0,0,3,0,0,3,10,8.23,2.53
+285,65,25174,College degree,1,Low,1,48,52,Conservative,11,22,7,8,-4,6,-1,-8,12,3.23,0
+286,43,38375,Some college,1,Low,1,50,50,Conservative,-16,56,62,62,29,19,-2,16,46,0,0
+287,51,29687,College degree,1,Low,1,34,66,Conservative,-7,6,12,0,0,-41,0,13,-1,29.63,18.52
+288,43,12078,Some college,1,Low,1,50,50,Conservative,14,19,20,1,29,0,29,33,17,6.78,1.69
+289,52,30013,Graduate degree,0,Low,1,62,38,aLiberal,10,-16,0,0,-9,0,20,-3,-10,8,0
+290,59,67202,High school diploma,0,Low,1,0,100,Conservative,-20,-1,-4,-1,-6,3,7,10,-22,0,0
+291,59,99688,College degree,1,Low,1,15,85,Conservative,11,1,-2,6,4,7,12,3,-8,1.12,0.56
+292,57,31558,Some college,1,Low,1,86,14,aLiberal,0,6,0,0,0,0,0,0,-2,0,0
+293,61,13801,High school diploma,0,Low,1,64,36,aLiberal,14,-2,-22,17,-26,5,-7,3,2,5.88,0
+294,65,44708,Some college,1,Low,1,100,0,aLiberal,15,-11,1,7,-5,0,-2,0,1,15.38,11.54
+295,72,3874,College degree,1,Low,1,42,58,Conservative,1,-10,8,12,0,8,12,30,11,5,1.67
+296,40,10010,College degree,1,Low,1,72,28,aLiberal,-3,3,7,9,-26,-1,9,4,-13,2.7,2.7
+297,35,11358,Graduate degree,0,Low,1,100,0,aLiberal,5,0,0,0,19,0,5,0,-9,0,0
+298,19,45891,High school diploma,1,Low,1,100,0,aLiberal,-17,-10,0,-7,-13,0,0,-15,-13,3.5,0.7
+299,55,83440,College degree,1,Low,1,27,73,Conservative,-6,7,-2,1,5,6,-1,-14,0,0,0
+300,21,43402,Some high school,1,Low,1,52,48,aLiberal,0,-50,-4,28,-44,3,35,-28,0,0.97,0.97
+301,30,95640,Some college,1,Low,1,41,59,Conservative,-7,4,2,-15,-7,-3,-11,-12,1,12.5,6.25
+302,31,68110,High school diploma,0,Low,1,46,54,Conservative,36,35,-33,67,20,-10,24,12,-7,3.45,3.45
+303,72,27030,College degree,0,Low,1,0,100,Conservative,-3,27,0,0,-13,-4,-39,6,-6,6.31,0.9
+304,64,88061,College degree,0,Low,1,40,60,Conservative,-1,0,-5,4,1,4,0,8,-1,3.23,0
+305,65,72204,Some college,0,Low,1,7,93,Conservative,0,0,0,0,-3,-16,-50,0,-3,0,0
+306,37,70607,College degree,1,Low,1,50,50,Conservative,0,-2,-1,11,7,10,18,3,9,,
+307,67,95624,Graduate degree,0,Low,1,50,50,Conservative,5,-12,1,2,8,3,9,3,8,9.3,9.3
+308,51,16423,High school diploma,0,Low,1,50,50,Conservative,0,0,0,0,0,0,0,0,0,0,0
+309,54,13476,College degree,0,Low,1,50,50,Conservative,-6,10,3,11,-11,0,9,12,-5,2.25,2.25
+310,68,95747,College degree,0,Low,1,0,100,Conservative,-4,-8,1,-8,10,-9,2,24,6,0,0
+311,35,10001,Graduate degree,0,Low,1,91,9,aLiberal,-5,2,0,0,2,1,0,-4,4,0,0
+312,36,10001,College degree,0,Low,1,23,77,Conservative,-1,16,0,0,15,0,6,3,14,4.21,0
+313,32,11418,High school diploma,0,Low,1,60,40,aLiberal,0,0,0,0,0,0,0,0,0,33.33,33.33
+314,51,74363,Graduate degree,0,Low,1,47,53,Conservative,0,10,-4,-14,3,-9,-2,-9,0,0,0
+315,25,73132,Some college,0,Low,1,51,49,aLiberal,67,10,13,-2,18,0,-20,-1,40,0,0
+316,72,1038,College degree,0,Low,1,61,39,aLiberal,0,1,-5,0,3,0,-1,0,1,1.9,0.95
+317,29,78130,High school diploma,0,Low,1,50,50,Conservative,14,14,24,21,-5,6,-10,1,28,4.35,0
+318,47,23235,College degree,1,Low,1,65,35,aLiberal,50,46,49,0,0,0,0,0,0,6.9,0
+319,44,42345,High school diploma,1,Low,1,1,99,Conservative,-72,-1,-20,0,-33,0,16,0,-100,0,0
+320,69,29582,Some college,0,Low,1,51,49,aLiberal,0,2,0,0,-1,0,0,10,0,6.06,6.06
+321,72,89011,College degree,1,Low,1,85,15,aLiberal,1,0,2,6,17,0,0,16,0,0,0
+322,62,56069,High school diploma,1,Low,1,40,60,Conservative,-13,-1,4,1,-7,5,14,6,-1,0,0
+323,68,32043,College degree,0,Low,1,7,93,Conservative,0,-11,1,29,-11,-2,14,-9,0,9.68,0
+324,41,74547,High school diploma,1,Low,1,10,90,Conservative,10,0,10,0,0,0,0,0,80,1.67,0.83
+325,74,1033,College degree,0,Low,1,82,18,aLiberal,-4,4,-4,0,11,0,7,0,-1,1.35,1.35
+326,66,11234,Some college,1,Low,1,76,24,aLiberal,5,0,0,-1,4,0,0,0,16,2.67,1.33
+327,64,68114,Some college,0,Low,1,10,90,Conservative,-3,9,8,11,10,17,18,10,13,3.57,3.57
+328,73,37183,Some college,1,Low,1,13,87,Conservative,8,10,0,1,-20,6,3,4,6,0,0
+329,56,74742,College degree,1,Low,1,86,14,aLiberal,-16,31,-39,34,26,23,3,3,-10,2.88,0.96
+330,73,44105,Some college,0,Low,1,81,19,aLiberal,10,10,0,0,0,0,0,0,10,27.78,11.11
+331,65,98376,Some college,1,Low,1,81,19,aLiberal,0,0,0,0,0,0,0,0,0,1.57,0
+332,70,66749,Some college,1,Low,1,50,50,Conservative,0,0,0,-50,-1,0,0,0,0,6.25,0
+333,56,70380,College degree,1,Low,1,80,20,aLiberal,0,1,1,1,-11,-10,1,4,-2,0,0
+334,66,70517,High school diploma,1,Low,1,40,60,Conservative,-2,12,5,2,23,4,14,0,20,0,0
+335,64,65053,Some college,1,Low,1,13,87,Conservative,-19,2,0,-3,0,2,1,11,-2,0,0
+336,74,7111,High school diploma,1,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,-2,5.56,0
+337,66,93940,College degree,1,Low,1,0,100,Conservative,0,-2,-8,17,0,11,0,42,0,0,0
+338,69,29579,Some college,1,Low,1,0,100,Conservative,0,11,-25,-11,-10,0,-21,10,-2,0,0
+339,75,21221,High school diploma,0,Low,1,14,86,Conservative,0,0,0,7,0,10,-15,16,0,3.13,0
+340,66,7006,Some college,1,Low,1,28,72,Conservative,-21,-27,-2,5,-24,-35,-12,0,8,7.69,3.85
+341,74,8048,Some college,0,Low,1,51,49,aLiberal,10,-5,0,0,-2,10,7,0,-2,1.59,0
+342,52,8753,Graduate degree,0,Low,1,73,27,aLiberal,42,0,-21,0,0,19,-19,0,11,3.03,0
+343,73,23113,Some college,1,Low,1,50,50,Conservative,10,20,-10,11,0,11,11,1,11,0.75,0.75
+344,66,39355,Some college,1,Low,1,54,46,aLiberal,23,29,19,7,33,13,5,27,26,2.08,0
+345,32,22314,College degree,1,Low,1,78,22,aLiberal,-39,-3,9,28,31,11,28,20,-4,50,11.11
+346,71,92630,Some college,1,Low,1,1,99,Conservative,0,0,-1,0,-2,-1,0,0,0,0,0
+347,61,27509,High school diploma,1,Low,1,50,50,Conservative,-17,10,-11,0,0,0,7,0,-10,0,0
+348,74,87112,High school diploma,1,Low,1,100,0,aLiberal,0,1,0,0,0,0,6,1,19,1.43,0
+349,74,27030,Some college,1,Low,1,52,48,aLiberal,-2,-4,-8,0,-1,1,-4,0,5,19.61,3.92
+350,60,96003,Some college,1,Low,1,50,50,Conservative,0,0,0,0,0,0,0,0,0,0,0
+351,67,77565,Graduate degree,1,Low,1,14,86,Conservative,0,11,0,12,0,0,0,0,0,0.97,0
+352,75,18069,Some college,1,Low,1,0,100,Conservative,0,12,10,0,0,20,0,10,0,4.71,3.53
+353,69,37771,College degree,0,Low,1,0,100,Conservative,0,0,0,-1,0,0,31,8,0,2.78,2.78
+354,68,86303,College degree,1,Low,1,100,0,aLiberal,0,5,2,5,-5,-3,-6,-10,-6,1.67,0
+355,61,61353,College degree,1,Low,1,79,21,aLiberal,-5,-5,-16,0,0,0,0,0,1,0,0
+356,75,33319,Some college,1,Low,1,86,14,aLiberal,0,25,0,0,0,0,2,0,0,2.34,1.17
+357,61,45875,High school diploma,0,Low,1,31,69,Conservative,0,-20,-20,5,-11,-9,0,1,-20,2.41,1.2
+358,71,98229,College degree,1,Low,1,68,32,aLiberal,12,9,-9,4,-2,0,-1,-2,4,2.47,0
+359,64,37615,College degree,1,Low,1,74,26,aLiberal,1,11,-11,-6,-6,4,13,-4,6,0,0
+360,73,14626,Some college,1,Low,1,82,18,aLiberal,-4,0,0,-1,0,0,0,0,1,1.83,0
+361,72,12533,Some college,1,Low,1,74,26,aLiberal,10,3,6,1,3,10,15,0,0,0,0
+362,67,27330,Some college,1,Low,1,50,50,Conservative,0,1,1,12,2,0,21,0,-10,0,0
+363,53,16105,High school diploma,1,Low,1,20,80,Conservative,-10,12,-16,12,5,0,8,0,-21,0,0
+364,47,15206,Some college,1,Low,1,90,10,aLiberal,3,6,2,-2,2,-6,-1,-4,0,33.33,0
+365,39,98133,College degree,0,Low,1,50,50,Conservative,8,16,-1,37,2,1,13,7,-3,0,0
+366,25,39653,Some high school,1,Low,1,0,100,Conservative,0,-26,-12,0,0,0,0,0,0,5.88,3.92
+367,28,13206,Some college,1,Low,1,51,49,aLiberal,0,5,4,0,-5,0,0,-6,7,2.59,0.86
+368,70,28909,College degree,0,Low,1,0,100,Conservative,0,0,50,0,0,0,0,0,0,4.69,1.56
+369,75,43130,College degree,1,Low,1,53,47,aLiberal,-21,-1,7,0,8,4,18,-5,24,11.24,4.49
+370,73,33907,Some college,0,Low,1,48,52,Conservative,0,31,1,0,0,11,21,2,0,1.28,0
+371,48,30736,High school diploma,1,Low,1,9,91,Conservative,0,2,0,1,1,0,31,3,0,0,0
+372,70,47402,Some college,0,Low,1,0,100,Conservative,0,9,-1,-1,0,1,6,-20,0,2.99,2.99
+373,72,70072,College degree,1,Low,1,21,79,Conservative,1,0,0,0,9,0,0,0,45,3.45,1.72
+374,60,3861,College degree,1,Low,1,78,22,aLiberal,10,7,0,0,-7,-4,1,0,10,3.85,1.92
+375,60,85712,Some college,1,Low,1,50,50,Conservative,0,7,0,0,0,0,0,0,6,3.45,1.72
+376,73,73139,High school diploma,1,Low,1,100,0,aLiberal,4,0,8,1,0,0,0,0,0,1.59,1.59
+377,66,44224,College degree,1,Low,1,83,17,aLiberal,5,13,1,0,2,0,2,0,6,0,0
+378,29,20020,High school diploma,1,Low,1,100,0,aLiberal,1,1,10,5,3,9,11,6,-9,3.77,3.77
+379,66,2633,College degree,1,Low,1,59,41,aLiberal,5,-9,0,-3,4,-2,-1,-1,-2,1.3,0
+380,53,76118,High school diploma,1,Low,1,31,69,Conservative,-2,28,0,-30,38,36,18,38,46,8.82,2.94
+381,70,71225,Some college,1,Low,1,0,100,Conservative,15,-1,-2,4,9,0,0,9,10,2.7,2.7
+382,58,48858,High school diploma,1,Low,1,10,90,Conservative,7,-1,-1,-18,4,0,9,7,-1,0,0
+383,56,98373,Some college,1,Low,1,94,6,aLiberal,15,0,26,5,-2,9,28,39,13,1.75,0
+384,67,79602,Graduate degree,1,Low,1,0,100,Conservative,21,-2,0,6,3,8,15,17,1,3.33,1.25
+385,69,85020,Some college,1,Low,1,72,28,aLiberal,-10,-3,-5,-2,0,3,16,0,17,5.16,2.58
+386,56,12032,Some college,1,Low,1,19,81,Conservative,0,0,0,-23,0,-29,-10,2,0,0,0
+387,53,19801,Some college,0,Low,1,90,10,aLiberal,0,9,-7,-5,0,0,5,2,-20,0,0
+388,71,97402,College degree,0,Low,1,100,0,aLiberal,7,5,4,7,7,3,6,5,20,1.41,0
+389,68,30907,College degree,1,Low,1,21,79,Conservative,-29,14,-13,15,0,7,-4,0,0,3.37,0.78
+390,31,40403,High school diploma,other,Low,1,100,0,aLiberal,34,23,0,24,25,0,0,0,41,4.49,2.25
+391,72,63368,Some college,1,Low,1,50,50,Conservative,2,0,0,0,50,0,-2,-21,0,5.26,5.26
+392,25,62901,College degree,1,Low,1,100,0,aLiberal,1,1,42,16,0,0,2,1,16,1.92,0
+393,34,29720,College degree,1,Low,1,51,49,aLiberal,9,8,1,-2,6,-8,3,4,-12,0,0
+394,25,2746,High school diploma,1,Low,1,60,40,aLiberal,-10,8,-6,2,-4,17,-5,-13,-8,15.38,0
+395,66,33076,Graduate degree,0,Low,1,100,0,aLiberal,0,0,52,21,0,0,6,0,0,6.56,0
+396,55,97267,High school diploma,0,Low,1,30,70,Conservative,34,32,63,27,30,29,57,32,31,0,0
+397,36,91201,Some college,1,Low,1,94,6,aLiberal,10,10,3,-5,13,1,2,2,4,1.92,1.92
+398,49,7462,College degree,1,Low,1,57,43,aLiberal,8,-15,-34,-7,6,-9,7,-3,-1,2.83,0
+399,69,46405,High school diploma,1,Low,1,84,16,aLiberal,21,4,4,1,11,1,16,5,-3,0,0
+400,64,60450,High school diploma,1,Low,1,87,13,aLiberal,3,6,8,7,8,7,6,8,6,5.13,5.13
+401,36,44003,Some college,1,Low,1,59,41,aLiberal,34,20,-23,6,1,-7,12,13,2,6.67,3.33
+402,65,85209,College degree,1,Low,1,57,43,aLiberal,-1,-8,0,8,-3,15,0,-13,-4,0,0
+403,67,49519,College degree,1,Low,1,34,66,Conservative,-39,3,7,37,-15,-6,-22,-27,-11,9.38,6.25
+404,60,64772,High school diploma,0,Low,1,50,50,Conservative,0,0,13,0,-99,0,0,0,0,16.67,8.33
+405,70,38242,College degree,1,Low,1,61,39,aLiberal,1,2,1,-11,2,-9,-1,13,-1,4.23,0
+406,50,44017,High school diploma,1,Low,1,49,51,Conservative,0,-10,0,-8,0,0,7,0,0,0,0
+407,37,32832,High school diploma,0,Low,1,82,18,aLiberal,-7,-10,-7,-14,-12,-14,16,-20,16,2.78,0
+408,64,34608,Graduate degree,1,Low,1,57,43,aLiberal,12,1,-2,0,2,0,-6,-10,3,4,0
+409,71,71291,College degree,1,Low,1,51,49,aLiberal,20,-3,5,11,22,0,-3,8,0,5.81,0.58
+410,70,34744,High school diploma,1,Low,1,0,100,Conservative,0,5,-22,3,6,0,23,1,0,5.56,2.78
+411,48,86442,Some college,1,Low,1,45,55,Conservative,6,11,3,3,-2,0,-16,-18,48,2.86,0
+412,61,75701,College degree,0,Low,1,50,50,Conservative,0,0,0,0,0,0,0,0,0,15.79,5.26
+413,34,28170,High school diploma,1,Low,1,50,50,Conservative,53,-16,-8,9,4,0,-8,0,-49,3.33,0
+414,49,8109,Some college,1,Low,1,50,50,Conservative,-11,33,15,2,0,15,7,33,1,4.11,4.11
+415,35,69361,High school diploma,1,Low,1,47,53,Conservative,0,-3,3,-7,-3,1,-3,-1,0,0,0
+416,47,64127,Some high school,1,Low,1,52,48,aLiberal,-29,9,34,-14,26,4,14,7,11,0,0
+417,40,54555,College degree,0,Low,1,55,45,aLiberal,0,0,0,0,0,0,0,0,0,0,0
+418,72,98626,High school diploma,1,Low,1,59,41,aLiberal,40,0,0,0,0,0,0,0,-3,1.92,1.92
+419,35,90001,College degree,1,Low,1,50,50,Conservative,3,6,10,3,9,2,6,-4,-4,0.87,0.87
+420,49,30114,Some college,1,Low,1,1,99,Conservative,0,28,-41,9,-50,0,-7,0,0,6.45,3.23
+421,66,84501,Some college,1,Low,1,77,23,aLiberal,-40,22,1,13,-19,9,6,6,-10,3.28,1.64
+422,35,35570,Graduate degree,0,Low,1,40,60,Conservative,12,30,0,0,1,10,2,0,12,0,0
+423,25,62040,Some college,0,Low,1,88,12,aLiberal,-6,1,-14,-13,0,-6,-13,2,4,0,0
+424,23,77449,High school diploma,1,Low,1,71,29,aLiberal,8,15,57,-9,18,8,15,42,-15,0,0
+425,47,55337,College degree,1,Low,1,100,0,aLiberal,0,5,6,4,3,5,0,3,12,0,0
+426,56,48419,Some college,1,Low,1,50,50,Conservative,80,33,25,0,12,4,50,0,25,1.14,0
+427,60,44107,Some college,0,Low,1,100,0,aLiberal,0,0,0,0,-8,0,-26,0,-8,0.95,0
+428,40,28658,High school diploma,1,Low,1,50,50,Conservative,17,37,0,-18,0,-4,0,20,0,4.35,0
+429,59,29105,High school diploma,1,Low,1,55,45,aLiberal,0,0,0,-2,0,0,0,44,68,0,0
+430,65,60641,High school diploma,0,Low,1,91,9,aLiberal,-1,-2,10,-9,14,12,24,-16,4,0,0
+431,69,21632,College degree,1,Low,1,0,100,Conservative,63,-9,23,0,30,0,19,0,41,3.33,1.67
+432,59,13073,College degree,1,Low,1,92,8,aLiberal,0,13,-25,0,30,0,0,0,-9,5.13,1.28
+433,63,44691,College degree,1,Low,1,94,6,aLiberal,11,17,2,0,0,0,0,0,12,0,0
+434,69,78148,High school diploma,1,Low,1,0,100,Conservative,19,-7,-1,10,0,9,-7,0,28,0,0
+435,74,77357,College degree,1,Low,1,81,19,aLiberal,75,26,47,17,23,25,23,0,48,21.15,9.62
+436,71,56318,High school diploma,1,Low,1,1,99,Conservative,0,-12,0,-2,-8,0,-10,0,0,0,0
+437,57,35215,High school diploma,1,Low,1,50,50,Conservative,2,6,0,6,0,0,7,8,14,5.47,2.34
+438,60,89015,Some college,1,Low,1,48,52,Conservative,2,-6,0,0,23,0,0,0,0,4.95,1.65
+439,43,80526,High school diploma,1,Low,1,77,23,aLiberal,3,2,7,4,2,0,10,-7,-2,3.28,1.64
+440,65,29301,Graduate degree,1,Low,1,50,50,Conservative,1,0,-21,0,-19,0,0,-10,-20,0,0
+441,69,61832,Some college,0,Low,1,64,36,aLiberal,-4,0,0,-4,12,0,-12,-1,-5,2.63,2.63
+442,55,30189,College degree,1,Low,1,50,50,Conservative,30,0,-5,2,7,-10,18,-6,8,0,0
+443,68,46324,College degree,1,Low,1,92,8,aLiberal,0,0,0,0,0,0,0,0,12,3.23,0
+444,64,75042,High school diploma,1,Low,1,50,50,Conservative,-18,-1,-3,17,-21,0,0,0,-24,0,0
+445,69,76133,Some college,1,Low,1,0,100,Conservative,-11,8,-19,-8,26,0,-9,0,0,8.62,1.72
+446,65,58203,Some college,1,Low,1,21,79,Conservative,2,5,0,-3,-29,0,3,-33,0,1.98,0
+447,41,10016,Graduate degree,0,Low,1,95,5,aLiberal,18,14,2,-10,4,-5,-2,-3,10,0,0
+448,66,48114,College degree,1,Low,1,28,72,Conservative,0,-10,-1,-7,-38,10,-7,-2,0,14.29,14.29
+449,65,12401,Some college,1,Low,1,0,100,Conservative,0,-30,0,-24,0,0,1,0,0,3.23,1.61
+450,72,37804,Some college,1,Low,1,9,91,Conservative,27,10,-6,8,4,0,0,0,30,1.53,0
+451,74,33907,Some college,1,Low,1,50,50,Conservative,-2,-10,0,-3,0,-1,-1,0,2,1.12,0
+452,60,19141,High school diploma,0,Low,1,100,0,aLiberal,70,0,0,-19,-18,0,0,0,-16,5,1.67
+453,44,32765,Some college,1,Low,1,95,5,aLiberal,10,-16,-19,4,10,7,9,1,-4,9.26,0
+454,65,46142,College degree,1,Low,1,31,69,Conservative,-3,2,21,0,45,14,29,24,-3,2.22,0
+455,62,44070,Graduate degree,1,Low,1,28,72,Conservative,-31,-18,-11,0,-11,-11,-25,-12,-10,14.29,0
+456,64,85087,College degree,1,Low,1,60,40,aLiberal,10,2,11,-21,0,0,1,0,23,,
+457,24,76109,Some college,1,Low,1,50,50,Conservative,-4,14,14,-19,22,9,8,7,24,0,0
+458,57,44134,Graduate degree,0,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,0,23.33,20
+459,63,33573,Graduate degree,1,Low,1,50,50,Conservative,0,0,-40,0,0,0,0,-19,0,5.13,1.28
+460,70,34243,College degree,1,Low,1,53,47,aLiberal,-5,-1,-1,0,-36,-1,0,-29,5,0,0
+461,64,79423,Some college,1,Low,1,0,100,Conservative,3,4,23,0,-7,0,4,0,22,5.26,4.21
+462,37,47807,High school diploma,1,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,0,0,0
+463,65,60453,High school diploma,1,Low,1,50,50,Conservative,-7,-20,2,14,-23,1,2,16,22,1.41,1.41
+464,65,80017,High school diploma,1,Low,1,100,0,aLiberal,35,0,0,0,25,0,0,0,30,2.91,0
+465,58,44842,College degree,1,Low,1,3,97,Conservative,6,19,-1,19,1,6,7,0,6,2,0
+466,70,77040,High school diploma,1,Low,1,0,100,Conservative,-7,0,-8,0,0,0,0,0,11,2.44,2.44
+467,67,32113,Some college,1,Low,1,9,91,Conservative,-4,14,-5,29,-23,12,-13,23,-14,11.63,0
+468,59,76039,College degree,1,Low,1,35,65,Conservative,11,6,11,5,0,4,14,6,13,9.52,0
+469,54,42240,Some college,1,Low,1,0,100,Conservative,0,-2,0,1,0,10,6,4,0,2.4,0.8
+470,70,81416,Graduate degree,1,Low,1,100,0,aLiberal,0,0,0,0,0,0,10,0,0,3.28,0
+471,52,28460,Some college,1,Low,1,0,100,Conservative,15,1,-7,-3,4,15,7,9,0,12.5,5.36
+472,66,85031,Some college,0,Low,1,0,100,Conservative,39,63,8,29,39,19,28,18,29,0,0
+473,72,37820,Graduate degree,1,Low,1,8,92,Conservative,0,-20,0,-18,-8,28,-9,0,0,2.82,2.82
+474,71,6385,College degree,0,Low,1,9,91,Conservative,-1,-22,-7,13,-47,-6,-14,1,14,4.12,1.03
+475,60,73401,High school diploma,0,Low,1,5,95,Conservative,0,9,0,0,0,0,47,0,0,3.53,0.59
+476,75,25306,College degree,0,Low,1,1,99,Conservative,-8,0,0,-5,-31,0,-45,2,-1,1.79,0
+477,70,75076,Some college,0,Low,1,0,100,Conservative,0,0,0,0,0,-100,0,0,0,6.67,3.33
+478,73,32320,Graduate degree,0,Low,1,83,17,aLiberal,13,15,-7,0,0,1,-3,-3,11,0,0
+479,71,33971,Graduate degree,0,Low,1,2,98,Conservative,34,0,0,0,87,0,5,0,30,0,0
+480,59,59259,College degree,0,Low,1,58,42,aLiberal,-2,4,-6,-14,4,-10,5,-2,-12,0,0
+481,67,34233,Some college,1,Low,1,95,5,aLiberal,-3,0,1,0,-19,0,33,0,-16,0,0
+482,68,45220,Graduate degree,0,Low,1,86,14,aLiberal,-23,-13,3,3,-16,0,-2,-4,1,2.86,1.43
+483,75,55812,Some college,0,Low,1,77,23,aLiberal,5,20,12,0,0,0,32,0,28,2.78,2.78
+484,46,29301,Some college,1,Low,1,0,100,Conservative,23,6,15,6,3,6,5,18,0,4.65,2.33
+485,69,77018,Some college,1,Low,1,9,91,Conservative,86,0,0,-27,-23,0,9,0,9,13.33,2.22
+486,67,54856,Graduate degree,1,Low,1,75,25,aLiberal,-10,-2,-5,-3,4,0,10,-1,15,1.05,0
+487,30,10001,College degree,0,Low,1,56,44,aLiberal,26,7,5,-7,6,-8,3,3,45,2.56,0
+488,75,34293,Some college,1,Low,1,32,68,Conservative,-1,10,-4,3,-27,0,26,0,0,9.09,4.04
+489,65,33971,Some college,1,Low,1,65,35,aLiberal,-5,2,-4,-14,24,8,0,14,-3,5,1.67
+490,45,15033,High school diploma,1,Low,1,100,0,aLiberal,24,26,27,19,22,24,11,19,13,,
+491,62,61360,Some college,0,Low,1,50,50,Conservative,-13,-2,1,0,-6,0,13,0,15,0,0
+492,43,24422,College degree,0,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,0,2.22,2.22
+493,58,46802,Some college,1,Low,1,18,82,Conservative,10,7,6,9,9,10,9,11,10,0,0
+494,41,62056,High school diploma,0,Low,1,8,92,Conservative,-14,-1,-4,3,0,1,23,-4,-24,0,0
+495,64,40336,High school diploma,1,Low,1,52,48,aLiberal,26,13,-29,-10,2,5,-1,6,48,3.23,0
+496,69,37814,Some college,1,Low,1,9,91,Conservative,0,2,0,0,0,-15,0,-9,0,10.34,3.45
+497,73,2816,High school diploma,1,Low,1,86,14,aLiberal,0,-1,0,-5,2,-2,-8,-6,-5,12.5,12.5
+498,18,53233,Some college,1,Low,1,100,0,aLiberal,8,0,-10,6,9,-1,-4,16,0,1.64,0
+499,32,15479,High school diploma,1,Low,1,50,50,Conservative,-10,8,-2,0,4,0,0,0,3,9.09,1.52
+500,18,90032,High school diploma,1,Low,1,83,17,aLiberal,4,11,-16,0,-3,0,-6,0,-10,3.39,1.69
+501,31,48188,College degree,1,Low,1,68,32,aLiberal,5,-16,-3,13,-6,5,-4,10,7,3.57,0
+502,63,43215,College degree,1,Low,1,54,46,aLiberal,-3,3,19,0,-3,-5,-10,6,2,8.51,2.13
+503,49,14075,College degree,1,Low,1,25,75,Conservative,-7,8,4,0,5,0,-18,-8,25,8.51,2.13
+504,30,29654,High school diploma,1,Low,1,50,50,Conservative,0,-2,-3,-1,0,-2,-6,-5,0,0,0
+505,67,56164,College degree,1,Low,1,55,45,aLiberal,1,-3,-12,0,11,0,0,0,6,0,0
+506,74,32818,College degree,1,Low,1,86,14,aLiberal,21,18,0,0,-1,0,0,0,0,2.6,0
+507,40,77038,College degree,1,Low,1,100,0,aLiberal,91,0,18,0,18,0,0,0,80,1.89,1.89
+508,66,38583,High school diploma,0,Low,1,84,16,aLiberal,-3,-3,-11,-2,3,-8,-6,-1,-6,5.45,0
+509,75,6033,Graduate degree,0,Low,1,67,33,aLiberal,2,11,0,0,25,0,0,0,1,7.34,0
+510,71,37660,College degree,0,Low,1,0,100,Conservative,0,-6,-1,-1,0,-4,-10,-10,0,5.04,0
+511,40,90001,College degree,0,Low,1,100,0,aLiberal,-9,4,4,0,6,4,0,4,2,3.57,0.6
+512,29,77706,Some college,0,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,4,0,0
+513,72,48412,Some college,0,Low,1,0,100,Conservative,0,-34,19,-38,0,-3,0,13,0,4.35,0
+514,47,52205,College degree,0,Low,1,45,55,Conservative,9,-12,1,1,-2,-6,-10,-3,-3,2.83,0.94
+515,68,97267,Some college,0,Low,1,17,83,Conservative,-38,-30,10,-3,-19,12,9,-1,1,2.56,0
+516,71,67205,Some college,0,Low,1,6,94,Conservative,0,13,11,-4,0,15,-2,15,0,5.97,2.99
+517,64,39553,College degree,0,Low,1,0,100,Conservative,0,34,-1,-1,10,-5,-11,24,4,0,0
+518,24,16143,High school diploma,0,Low,1,50,50,Conservative,-1,-8,2,-1,-4,-1,-1,3,-12,0,0
+519,69,99709,High school diploma,0,Low,1,26,74,Conservative,2,-5,-7,14,-19,-6,-1,-14,-26,8.82,5.88
+520,55,77707,College degree,0,Low,1,36,64,Conservative,7,-5,8,-3,-2,4,-15,-7,-4,27.78,11.11
+521,44,67217,College degree,0,Low,1,50,50,Conservative,32,0,0,12,15,6,24,1,-1,2.63,0
+522,63,60626,Some college,0,Low,1,18,82,Conservative,-6,-3,-4,0,34,11,-6,5,2,4.17,2.5
+523,55,45103,Some college,0,Low,1,32,68,Conservative,10,-4,-7,10,3,12,1,12,13,0,0
+524,35,43758,Some high school,0,Low,1,50,50,Conservative,-9,2,10,-9,-9,1,-9,-19,10,1.92,0
+525,63,72501,High school diploma,0,Low,1,0,100,Conservative,0,0,0,0,0,1,0,0,0,0,0
+526,75,90036,Some college,0,Low,1,60,40,aLiberal,54,23,12,0,4,0,17,0,20,0,0
+527,39,34653,Some college,0,Low,1,28,72,Conservative,29,15,7,24,10,-8,28,0,12,0,0
+528,72,33917,College degree,0,Low,1,84,16,aLiberal,0,-6,-32,0,1,-44,-6,56,0,12.5,6.25
+529,53,65203,College degree,0,Low,1,63,37,aLiberal,6,43,14,0,40,0,0,5,14,3.57,0
+530,28,32789,College degree,0,Low,1,20,80,Conservative,2,2,-3,1,-4,14,-6,-48,1,0,0
+531,43,30135,High school diploma,0,Low,1,100,0,aLiberal,0,0,0,0,0,0,0,0,5,0,0
+532,27,85255,College degree,0,Low,1,64,36,aLiberal,4,-37,34,51,50,8,-3,-6,7,30,10
+533,75,92107,Graduate degree,0,Low,1,17,83,Conservative,0,-19,-11,41,-25,-19,41,-22,0,0,0
+534,73,98258,College degree,0,Low,1,19,81,Conservative,0,-2,0,0,0,-35,0,-25,0,2.47,0.62
+535,67,3049,High school diploma,0,Low,1,46,54,Conservative,-15,5,2,1,-3,-15,-21,4,-8,0,0
+536,60,18603,High school diploma,1,Low,1,100,0,aLiberal,-1,-3,-4,0,-18,0,0,0,-3,2.78,1.39
+537,28,78542,Some college,0,Low,1,85,15,aLiberal,-8,3,-65,0,-7,0,0,9,8,2.73,0.91
+538,56,66517,Some college,0,Low,1,50,50,Conservative,0,0,-2,5,7,0,0,0,18,1.69,1.69
+539,56,93955,High school diploma,0,Low,1,85,15,aLiberal,20,-8,0,-2,-19,-6,-2,0,-20,0,0
+540,32,31201,College degree,0,Low,1,53,47,aLiberal,1,14,-2,5,16,3,20,12,12,6.25,0
+541,67,74834,College degree,1,Low,1,86,14,aLiberal,5,2,14,6,16,8,4,29,39,10.45,5.97
+542,35,10014,Graduate degree,0,Low,1,0,100,Conservative,29,7,1,-14,-10,-1,-2,1,-10,18.42,10.53
+543,40,93033,Graduate degree,0,Low,1,100,0,aLiberal,52,0,0,0,0,0,0,0,66,50,6.25
+544,26,94114,College degree,0,High,2,94,6,aLiberal,0,4,-1,-11,-1,-1,-5,-6,-5,16.98,5.66
+545,73,91701,Some college,1,High,2,87,13,aLiberal,-16,5,10,-3,23,0,-11,0,-7,10.29,2.94
+546,31,7107,Some college,0,High,2,78,22,aLiberal,1,4,-3,-7,0,-4,3,0,0,30,10
+547,36,90001,College degree,0,High,2,54,46,aLiberal,5,-1,-2,0,5,8,4,-6,-1,35,10
+548,72,27703,College degree,0,High,2,76,24,aLiberal,-2,-7,-4,3,-15,11,-11,0,-17,7.84,1.96
+549,29,23223,High school diploma,1,High,2,86,14,aLiberal,-4,1,3,0,6,1,5,0,8,50,12.5
+550,61,13827,High school diploma,1,High,2,67,33,aLiberal,5,39,8,12,32,0,13,0,29,0,0
+551,67,65737,High school diploma,0,High,2,16,84,Conservative,8,4,14,16,14,0,16,0,4,13.51,2.7
+552,75,28012,High school diploma,0,High,2,14,86,Conservative,-1,-13,6,10,0,8,-1,-2,0,2.47,0
+553,71,21850,High school diploma,1,High,2,55,45,aLiberal,15,-1,8,0,20,0,10,0,14,2.5,2.5
+554,32,10002,Graduate degree,0,High,2,90,10,aLiberal,-13,-14,-3,1,11,-13,-56,-10,-47,0,0
+555,51,85083,College degree,1,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,6,2
+556,30,60659,College degree,1,High,2,89,11,aLiberal,-6,-7,-4,-6,-4,-6,1,-7,-6,87.5,0
+557,13,30024,College degree,0,High,2,80,20,aLiberal,14,8,13,0,8,10,14,3,5,22.41,8.62
+558,40,33102,College degree,0,High,2,81,19,aLiberal,18,5,3,-4,1,6,-14,3,16,50,0
+559,66,18938,College degree,1,High,2,79,21,aLiberal,21,27,0,-1,0,1,8,0,3,4.35,0
+560,72,28025,Some college,1,High,2,12,88,Conservative,0,23,0,-15,-31,-6,0,3,0,29.41,11.76
+561,58,53222,College degree,1,High,2,100,0,aLiberal,-15,-40,-2,-47,-31,11,31,13,-8,8.33,8.33
+562,64,98303,High school diploma,1,High,2,81,19,aLiberal,0,-3,3,2,8,-4,29,-1,35,10.64,0
+563,69,46818,College degree,1,High,2,27,73,Conservative,-10,4,7,-3,2,0,0,30,2,4.55,0
+564,62,37754,College degree,1,High,2,0,100,Conservative,6,24,4,3,85,11,3,10,5,4.35,2.17
+565,69,55304,College degree,1,High,2,7,93,Conservative,64,14,3,4,28,-3,13,-2,67,33.33,25
+566,66,30214,Some college,1,High,2,84,16,aLiberal,34,5,10,4,15,13,2,5,-32,2.08,0
+567,66,60411,College degree,0,High,2,84,16,aLiberal,1,1,1,1,25,-1,92,-1,80,9.68,9.68
+568,41,65810,College degree,0,High,2,6,94,Conservative,45,56,5,-5,41,62,-36,6,81,25,7.14
+569,71,81652,Some college,1,High,2,0,100,Conservative,-26,3,-9,0,-5,6,0,-2,-2,0,0
+570,38,19128,Some college,1,High,2,55,45,aLiberal,11,-15,0,0,51,0,0,0,62,3.7,0
+571,73,93063,College degree,1,High,2,19,81,Conservative,-11,-12,-2,-3,-1,16,16,0,1,14.86,0
+572,35,90402,Graduate degree,0,High,2,87,13,aLiberal,0,4,-2,-4,13,2,8,3,3,3.61,3.61
+573,29,53405,Some college,other,High,2,100,0,aLiberal,-7,2,1,0,3,0,0,-14,-3,0,0
+574,42,8844,Some college,1,High,2,50,50,Conservative,11,32,-56,17,-7,-3,-9,-2,-21,0,0
+575,69,55909,High school diploma,1,High,2,100,0,aLiberal,-33,0,0,0,-13,0,0,0,-2,5.88,1.47
+576,37,45103,High school diploma,1,High,2,10,90,Conservative,4,0,2,4,-14,9,11,4,-3,2.7,1.35
+577,46,28785,College degree,1,High,2,76,24,aLiberal,-4,-49,7,0,14,0,4,9,10,26.67,13.33
+578,34,72022,High school diploma,0,High,2,92,8,aLiberal,0,-3,-2,-6,2,-4,9,7,-6,27.27,27.27
+579,38,78114,Some college,1,High,2,50,50,Conservative,27,38,5,22,41,3,30,-35,20,0,0
+580,30,10001,College degree,0,High,2,100,0,aLiberal,1,5,-1,-6,-5,-3,9,4,-7,29.73,29.73
+581,63,19003,College degree,1,High,2,19,81,Conservative,0,-39,0,0,0,-62,0,0,0,0,0
+582,33,99320,Graduate degree,0,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,7,17.65,0
+583,51,74363,Graduate degree,0,High,2,55,45,aLiberal,-16,0,-4,13,13,11,-5,1,-10,0,0
+584,26,75220,High school diploma,0,High,2,50,50,Conservative,-8,12,9,-3,-4,9,-8,-4,-14,21.43,0
+585,49,92882,Some college,1,High,2,81,19,aLiberal,5,0,0,0,-5,0,6,0,7,4.65,2.33
+586,47,71913,Graduate degree,1,High,2,69,31,aLiberal,6,-3,-2,0,3,-14,-14,6,0,2.06,0
+587,69,85202,High school diploma,0,High,2,0,100,Conservative,-39,-20,-1,-6,0,1,-10,0,2,28,0
+588,66,75043,High school diploma,1,High,2,0,100,Conservative,46,34,76,47,19,8,51,35,72,6.25,6.25
+589,19,60076,High school diploma,0,High,2,49,51,Conservative,-5,-11,14,-11,-4,0,43,-15,5,30,20
+590,41,29154,Some college,1,High,2,83,17,aLiberal,1,11,15,0,2,0,20,0,0,6.45,0
+591,29,52732,High school diploma,1,High,2,51,49,aLiberal,9,0,39,-10,-29,6,-7,-4,64,50,50
+592,44,41311,High school diploma,1,High,2,0,100,Conservative,25,16,20,3,47,17,-6,5,10,8.24,7.06
+593,28,11239,College degree,0,High,2,0,100,Conservative,10,1,13,9,8,3,10,13,8,0,0
+594,29,52761,College degree,1,High,2,48,52,Conservative,29,5,7,37,-12,-8,29,-2,-10,0,0
+595,72,45050,Graduate degree,0,High,2,8,92,Conservative,0,6,-2,8,0,2,2,-14,0,1.64,0
+596,71,2116,College degree,1,High,2,66,34,aLiberal,0,0,0,0,0,0,0,0,0,10.87,0
+597,28,23225,College degree,1,High,2,37,63,Conservative,100,67,62,0,100,0,32,1,98,5.41,0
+598,70,20815,Graduate degree,0,High,2,81,19,aLiberal,-12,2,0,3,13,0,6,0,-7,1.64,0
+599,36,92408,College degree,0,High,2,0,100,Conservative,39,22,28,14,17,12,16,8,31,12.7,11.11
+600,71,75773,Some college,1,High,2,7,93,Conservative,0,-1,-35,12,0,0,-4,-13,0,9.15,8.45
+601,26,48205,High school diploma,1,High,2,47,53,Conservative,3,9,0,1,-47,31,15,23,-12,7.59,1.27
+602,69,64052,Some college,0,High,2,89,11,aLiberal,0,0,0,0,0,0,0,0,0,1.3,0
+603,66,98855,College degree,1,High,2,9,91,Conservative,-10,-7,-10,9,-10,19,-10,4,0,7.69,1.92
+604,73,27278,Graduate degree,1,High,2,100,0,aLiberal,-5,0,0,-6,-4,0,6,0,-6,1.1,0
+605,53,91040,College degree,1,High,2,100,0,aLiberal,30,-10,0,0,-11,0,0,-9,-5,8.7,4.35
+606,74,56431,Graduate degree,1,High,2,59,41,aLiberal,20,-3,4,0,0,6,-2,-3,10,1.96,1.96
+607,66,86444,College degree,1,High,2,85,15,aLiberal,0,6,-27,0,-50,0,0,2,-50,6.96,1.27
+608,72,37804,Graduate degree,1,High,2,50,50,Conservative,58,0,26,29,25,14,35,-1,-2,10.59,10.59
+609,48,71326,Some high school,1,High,2,50,50,Conservative,0,-1,1,25,1,0,50,0,0,2.86,0
+610,35,90201,College degree,0,High,2,95,5,aLiberal,3,-2,10,7,5,6,-3,-3,-11,25.81,24.19
+611,35,90201,College degree,0,High,2,96,4,aLiberal,1,1,-8,1,-7,3,-6,-1,5,34.15,17.07
+612,40,32505,College degree,1,High,2,50,50,Conservative,11,10,11,12,12,10,19,9,-3,9.26,7.41
+613,72,85043,Some college,1,High,2,50,50,Conservative,0,0,0,0,27,0,0,0,36,10.34,1.72
+614,47,21218,High school diploma,0,High,2,0,100,Conservative,0,0,0,0,0,0,0,0,48,16.67,4.17
+615,44,46075,Graduate degree,1,High,2,17,83,Conservative,0,-7,6,-18,-1,1,-10,-23,0,0,0
+616,42,17325,College degree,1,High,2,82,18,aLiberal,0,0,0,0,0,0,0,0,-5,0,0
+617,75,27127,Some college,1,High,2,20,80,Conservative,0,-6,10,4,-7,8,5,6,6,2.99,0
+618,53,6516,College degree,0,High,2,60,40,aLiberal,49,-4,33,-16,-10,-11,-1,0,-3,11.36,0
+619,70,54165,High school diploma,1,High,2,51,49,aLiberal,3,4,24,0,0,9,0,0,10,6,2
+620,71,85715,Some college,1,High,2,59,41,aLiberal,1,19,2,8,1,7,0,12,5,1.9,0
+621,57,89431,College degree,1,High,2,88,12,aLiberal,3,0,-3,3,-8,4,14,1,7,0,0
+622,63,64119,College degree,1,High,2,99,1,aLiberal,2,2,0,-1,0,19,19,1,0,1.54,0
+623,59,69347,High school diploma,1,High,2,23,77,Conservative,-15,0,10,21,12,12,31,16,21,0,0
+624,22,60624,Some college,1,High,2,78,22,aLiberal,52,0,4,50,5,0,-2,0,-21,0,0
+625,29,7424,College degree,0,High,2,0,100,Conservative,0,0,0,0,0,0,0,0,0,0,0
+626,37,97304,College degree,1,High,2,100,0,aLiberal,2,-2,-8,-10,-4,-7,-13,-6,-3,0,0
+627,24,46952,High school diploma,1,High,2,100,0,aLiberal,11,-5,-3,0,17,0,0,0,7,1.16,0
+628,31,91011,College degree,1,High,2,52,48,aLiberal,0,0,3,3,0,0,18,1,15,4.29,0
+629,73,15601,Graduate degree,1,High,2,71,29,aLiberal,0,-10,-19,0,0,0,0,0,-12,8.54,1.22
+630,73,84009,College degree,1,High,2,8,92,Conservative,29,-2,10,-20,22,-1,-39,21,11,12.5,0
+631,20,29410,Some high school,0,High,2,0,100,Conservative,92,-72,18,21,100,-9,1,9,96,9.09,9.09
+632,55,43207,College degree,1,High,2,17,83,Conservative,37,-37,74,11,17,25,27,23,34,8.33,8.33
+633,40,99301,Graduate degree,0,High,2,100,0,aLiberal,-4,2,14,-1,-11,-9,11,-7,11,9.33,4
+634,19,8094,High school diploma,1,High,2,100,0,aLiberal,23,0,-17,0,6,0,0,0,-12,0,0
+635,37,75119,Some college,1,High,2,15,85,Conservative,14,7,15,5,66,0,18,0,25,17.65,8.82
+636,71,34481,Some college,1,High,2,51,49,aLiberal,33,24,9,13,41,6,15,8,3,7.32,0
+637,69,18704,High school diploma,1,High,2,51,49,aLiberal,43,0,0,0,50,0,35,0,0,17.65,8.82
+638,42,10304,College degree,1,High,2,49,51,Conservative,0,0,0,0,0,0,0,0,0,7.14,0
+639,65,72529,College degree,1,High,2,44,56,Conservative,0,7,1,1,0,2,0,20,0,8.7,2.17
+640,34,7102,College degree,1,High,2,80,20,aLiberal,-19,14,13,-6,1,-5,21,13,-24,2.86,2.86
+641,40,98405,College degree,1,High,2,51,49,aLiberal,-2,-2,8,0,-14,0,6,0,19,11.76,2.94
+642,28,41653,High school diploma,1,High,2,64,36,aLiberal,-15,-1,-17,21,-7,-6,3,-2,7,0,0
+643,48,79605,Some college,0,High,2,0,100,Conservative,0,0,-26,19,36,1,0,0,0,2.7,1.35
+644,66,80439,Some college,1,High,2,50,50,Conservative,0,5,-3,-16,-2,0,-4,16,0,7.61,1.09
+645,57,31305,High school diploma,1,High,2,53,47,aLiberal,16,13,7,-2,11,6,7,9,14,2.86,0
+646,46,25635,Some college,1,High,2,1,99,Conservative,-2,4,22,24,17,-25,39,17,8,3.33,0
+647,65,48044,Some college,0,High,2,51,49,aLiberal,0,2,0,0,0,0,0,0,0,100,100
+648,66,38058,High school diploma,1,High,2,0,100,Conservative,3,-33,0,0,-81,0,-50,0,0,14.29,14.29
+649,37,40313,Some high school,1,High,2,51,49,aLiberal,0,1,0,0,-50,0,0,0,0,6.25,0
+650,44,19111,College degree,1,High,2,0,100,Conservative,12,-1,-8,0,0,10,8,10,-2,2.13,0
+651,67,21009,Graduate degree,1,High,2,100,0,aLiberal,5,0,0,0,0,0,-2,0,-1,1.41,0
+652,27,78212,College degree,1,High,2,54,46,aLiberal,0,2,0,0,14,-11,-9,31,0,4.76,4.76
+653,63,29341,High school diploma,1,High,2,52,48,aLiberal,-12,-13,3,2,-19,-2,1,-2,-5,12.9,0
+654,35,90201,College degree,0,High,2,89,11,aLiberal,-2,-8,1,-7,4,5,5,9,10,6.38,0
+655,72,94568,Graduate degree,0,High,2,52,48,aLiberal,-2,-2,5,-3,4,-1,0,-3,8,8.66,2.36
+656,64,36346,Some college,1,High,2,65,35,aLiberal,36,15,0,0,4,0,0,0,37,9.09,2.27
+657,60,65610,Graduate degree,other,High,2,77,23,aLiberal,-3,-16,-9,0,0,0,-5,0,0,1.67,0
+658,69,92886,College degree,1,High,2,40,60,Conservative,2,12,-1,-10,-19,0,-17,21,0,0,0
+659,35,10001,Graduate degree,1,High,2,100,0,aLiberal,3,-15,-28,-31,-24,-21,-21,-9,-16,22.22,22.22
+660,49,44906,High school diploma,0,High,2,50,50,Conservative,24,-34,-10,-50,0,-23,-35,-13,10,0,0
+661,66,38401,High school diploma,1,High,2,0,100,Conservative,0,-12,62,1,0,6,0,-16,0,7.69,3.85
+662,54,71286,Some high school,1,High,2,50,50,Conservative,0,10,0,0,0,0,10,0,8,14.29,14.29
+663,30,10011,Graduate degree,0,High,2,77,23,aLiberal,-19,30,-12,-24,-7,-13,-6,-20,-18,31.82,0
+664,33,53208,Some college,1,High,2,52,48,aLiberal,0,0,-20,0,0,0,0,0,0,3.85,0
+665,35,10001,Graduate degree,0,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,19.53,12.5
+666,66,45628,High school diploma,1,High,2,0,100,Conservative,0,30,0,0,0,20,0,0,0,0,0
+667,42,43231,High school diploma,0,High,2,74,26,aLiberal,-2,0,0,25,-2,15,25,-24,-2,6.25,1.56
+668,53,87144,High school diploma,0,High,2,33,67,Conservative,-38,7,0,7,-15,4,75,9,16,0,0
+669,70,31312,High school diploma,0,High,2,50,50,Conservative,0,-15,-15,0,0,-19,-1,-7,0,10,0
+670,73,59718,College degree,0,High,2,8,92,Conservative,-6,12,12,9,-17,7,-1,3,0,9.09,5.45
+671,72,31064,College degree,0,High,2,5,95,Conservative,1,-13,-5,0,1,-21,-16,-9,-1,4.88,2.44
+672,19,38583,High school diploma,0,High,2,45,55,Conservative,3,0,1,17,6,0,4,0,2,3.09,0
+673,68,54220,Some college,0,High,2,9,91,Conservative,47,-4,-1,5,13,9,1,10,56,25,8.33
+674,21,44039,Some college,0,High,2,43,57,Conservative,8,1,1,8,-9,12,-2,9,-3,5.43,1.09
+675,56,28112,High school diploma,1,High,2,49,51,Conservative,14,0,-3,-6,28,0,6,15,24,3.57,0
+676,58,44134,College degree,0,High,2,19,81,Conservative,0,11,-4,1,-11,-2,0,7,0,0,0
+677,74,18052,Some college,0,High,2,56,44,aLiberal,-18,3,-6,3,-18,7,2,0,-2,2.78,0
+678,43,80227,College degree,1,High,2,50,50,Conservative,8,0,0,-2,2,0,0,13,0,6.52,0
+679,35,10003,Graduate degree,0,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,2.15,0.86
+680,19,11229,Some college,0,High,2,56,44,aLiberal,6,4,9,8,13,-11,-7,-1,-6,0,0
+681,66,33460,Some college,0,High,2,31,69,Conservative,0,-9,-1,-22,5,7,18,15,0,5.26,3.95
+682,44,70570,Some college,1,High,2,5,95,Conservative,0,0,-26,0,-18,-9,-31,0,-3,4.35,0
+683,71,57216,High school diploma,1,High,2,89,11,aLiberal,-3,-14,5,-11,-22,0,7,0,-8,1.75,0
+684,42,86401,Some college,1,High,2,89,11,aLiberal,-26,4,6,22,0,1,5,5,-5,0,0
+685,68,71852,Some college,1,High,2,1,99,Conservative,-19,0,0,-50,-19,-50,0,-25,0,4.76,4.76
+686,66,11743,College degree,0,High,2,97,3,aLiberal,4,0,4,2,2,1,0,1,4,19.05,0
+687,54,11542,College degree,1,High,2,73,27,aLiberal,-8,1,4,-2,5,-1,7,-1,-1,0,0
+688,69,19144,College degree,1,High,2,87,13,aLiberal,18,0,0,0,18,0,5,0,6,3.53,0
+689,54,46711,Graduate degree,0,High,2,71,29,aLiberal,19,20,0,-7,11,20,-9,2,11,11.76,8.82
+690,69,45013,College degree,1,High,2,80,20,aLiberal,4,-3,6,10,19,0,18,3,3,11.11,3.7
+691,67,33028,College degree,0,High,2,0,100,Conservative,-4,11,2,30,-5,11,0,7,0,18.18,0
+692,72,32258,Some college,0,High,2,0,100,Conservative,-3,4,-8,8,2,-1,14,6,-4,0,0
+693,65,33578,College degree,0,High,2,0,100,Conservative,10,20,-1,-1,2,20,-1,20,0,1.12,1.12
+694,68,33024,College degree,0,High,2,100,0,aLiberal,20,0,0,0,1,0,0,0,1,12.07,6.9
+695,53,60046,College degree,1,High,2,77,23,aLiberal,0,4,-2,16,6,0,1,0,14,4.84,1.61
+696,73,2818,College degree,1,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,3,50,0
+697,59,24018,College degree,0,High,2,0,100,Conservative,0,0,0,0,0,1,0,0,0,16.22,5.41
+698,49,26155,College degree,1,High,2,11,89,Conservative,-30,13,14,5,1,0,0,1,-3,0,0
+699,67,46140,Some college,1,High,2,14,86,Conservative,-10,8,10,11,13,8,14,8,-1,10.34,1.72
+700,70,87111,Some college,1,High,2,86,14,aLiberal,1,23,7,2,-1,1,10,3,14,0,0
+701,30,37862,Some college,1,High,2,50,50,Conservative,5,0,-3,42,-3,-12,3,-5,-1,0,0
+702,53,7039,College degree,0,High,2,28,72,Conservative,-16,26,31,33,2,0,36,18,5,43.75,25
+703,75,71112,High school diploma,0,High,2,50,50,Conservative,0,-9,0,0,0,0,0,100,0,0,0
+704,49,29576,High school diploma,1,High,2,0,100,Conservative,0,0,0,0,0,-7,-11,4,0,4.48,0
+705,64,18970,Some college,0,High,2,50,50,Conservative,23,0,-11,-10,1,1,3,-5,6,0,0
+706,60,48166,High school diploma,0,High,2,50,50,Conservative,0,0,0,0,0,0,0,0,0,0,0
+707,60,72958,High school diploma,0,High,2,18,82,Conservative,-24,30,10,0,23,0,-4,3,-7,6.35,3.17
+708,64,75785,High school diploma,0,High,2,1,99,Conservative,22,12,-4,35,64,7,66,22,64,3.51,0
+709,54,24523,High school diploma,1,High,2,51,49,aLiberal,10,-22,26,-18,-2,-13,20,-19,12,0,0
+710,64,23324,College degree,1,High,2,98,2,aLiberal,1,-6,-4,-5,-11,0,11,5,14,4.44,2.22
+711,73,29510,Some college,1,High,2,71,29,aLiberal,7,2,6,-9,6,2,11,9,-1,3.88,0
+712,70,53120,Graduate degree,1,High,2,29,71,Conservative,5,-9,-10,1,-18,-6,9,-9,1,3.23,0
+713,75,35226,Some college,1,High,2,17,83,Conservative,-12,-20,-3,7,5,9,6,7,6,18.75,12.5
+714,70,92637,Graduate degree,0,High,2,10,90,Conservative,18,8,4,14,5,4,10,7,13,0,0
+715,37,92507,College degree,1,High,2,52,48,aLiberal,6,5,3,3,18,4,10,6,4,5.83,0.83
+716,71,17055,Graduate degree,1,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,4.08,0
+717,68,71118,College degree,1,High,2,50,50,Conservative,67,35,-11,5,19,8,-35,3,39,4.3,3.23
+718,67,8817,Some college,0,High,2,50,50,Conservative,0,16,0,0,0,0,8,0,0,2.94,0
+719,74,33710,Graduate degree,1,High,2,93,7,aLiberal,0,0,0,0,0,0,0,0,-1,18.75,0
+720,67,29621,Some college,0,High,2,23,77,Conservative,30,0,0,21,0,0,0,0,9,4.17,0
+721,71,74112,College degree,0,High,2,100,0,aLiberal,6,-22,1,-2,1,-4,5,1,8,0,0
+722,68,7834,College degree,1,High,2,50,50,Conservative,-7,6,3,-9,-24,9,-20,2,0,2.33,0
+723,74,11367 to,Graduate degree,1,High,2,4,96,Conservative,9,11,11,10,-8,-3,0,-7,15,2.44,2.44
+724,32,60623,High school diploma,0,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,37.5,37.5
+725,45,32501,Some college,1,High,2,50,50,Conservative,56,0,0,0,-1,0,0,0,48,7.41,3.7
+726,32,19114,High school diploma,0,High,2,98,2,aLiberal,3,-6,0,1,-4,5,-1,-2,1,70,10
+727,45,57401,College degree,1,High,2,48,52,Conservative,4,-1,0,-11,-1,5,3,-7,-2,11.11,11.11
+728,66,37617,High school diploma,1,High,2,0,100,Conservative,0,-11,0,-8,0,-14,16,0,0,3.03,0
+729,75,60417,High school diploma,0,High,2,50,50,Conservative,-1,0,-2,0,2,0,0,0,4,8.57,0
+730,59,11022,Graduate degree,0,High,2,51,49,aLiberal,0,0,0,0,0,1,0,0,0,12.2,0
+731,51,7066,College degree,1,High,2,11,89,Conservative,-12,-5,5,9,-2,1,-7,20,-11,6.9,6.9
+732,67,42303,College degree,0,High,2,89,11,aLiberal,0,0,0,0,0,0,0,0,39,2.5,1.25
+733,66,60443,College degree,1,High,2,98,2,aLiberal,28,13,21,-1,13,-5,24,20,24,6.25,0
+734,47,44460,High school diploma,1,High,2,53,47,aLiberal,-8,4,0,-10,1,7,10,18,-4,3.23,0
+735,66,85053,College degree,1,High,2,50,50,Conservative,8,-13,-17,10,0,5,-2,0,1,2.86,2.14
+736,45,75042,Some college,1,High,2,100,0,aLiberal,-2,9,-10,23,-19,1,8,14,3,3.28,1.64
+737,66,55811,High school diploma,1,High,2,58,42,aLiberal,19,33,12,12,29,38,21,20,18,7.41,1.85
+738,70,8059,High school diploma,1,High,2,53,47,aLiberal,8,-6,9,20,-3,-4,-19,4,37,0,0
+739,54,85032,Some college,1,High,2,38,62,Conservative,5,15,12,1,15,7,2,9,21,9.09,1.3
+740,62,14004,Some college,1,High,2,71,29,aLiberal,0,0,0,0,9,1,0,0,0,6.49,0
+741,66,15221,High school diploma,1,High,2,0,100,Conservative,0,0,0,0,0,0,0,0,0,0,0
+742,52,85938,Some college,1,High,2,16,84,Conservative,0,4,2,-18,0,-18,-41,44,0,3.45,1.15
+743,33,34946,College degree,1,High,2,0,100,Conservative,-6,-8,4,4,11,16,11,4,15,0,0
+744,60,97402,College degree,1,High,2,100,0,aLiberal,17,6,0,0,-4,0,10,0,1,12.7,0.82
+745,73,45503,Graduate degree,1,High,2,14,86,Conservative,-7,-14,3,-1,-4,1,-28,25,-10,6.52,0
+746,64,55104,Some college,1,High,2,100,0,aLiberal,29,0,28,4,14,25,7,4,19,0,0
+747,71,3440,Some college,1,High,2,50,50,Conservative,-16,-3,7,2,-4,-2,6,3,-1,0,0
+748,38,29379,High school diploma,1,High,2,52,48,aLiberal,0,-19,-12,-18,18,34,-6,-2,0,0,0
+749,58,77008,College degree,1,High,2,13,87,Conservative,0,28,-1,-6,0,2,9,2,0,4.55,4.55
+750,75,85630,Some college,1,High,2,52,48,aLiberal,15,18,-6,10,17,-1,32,31,13,7.14,0
+751,70,97015,High school diploma,1,High,2,100,0,aLiberal,2,39,9,3,19,22,22,18,1,3.31,3.31
+752,63,5495,College degree,1,High,2,99,1,aLiberal,-10,-7,-9,-3,-4,-1,15,-7,8,4.03,2.42
+753,65,49505,Some college,1,High,2,54,46,aLiberal,0,1,-4,2,-2,9,-10,0,-2,4.55,2.27
+754,66,44813,High school diploma,1,High,2,0,100,Conservative,0,-49,0,-28,0,7,1,0,0,0,0
+755,66,85295,Some college,1,High,2,38,62,Conservative,5,-36,-7,5,-17,5,-6,6,-6,6.06,0
+756,75,10128,College degree,1,High,2,100,0,aLiberal,50,40,0,0,50,0,0,0,-20,3.51,0.58
+757,57,60620,High school diploma,0,High,2,100,0,aLiberal,0,0,2,7,0,9,0,0,9,0,0
+758,67,15009,Some college,1,High,2,5,95,Conservative,2,-98,-2,0,0,0,0,0,0,7.69,3.85
+759,69,86429,College degree,1,High,2,21,79,Conservative,-8,-1,0,0,-10,2,-12,-8,0,1.41,0.7
+760,57,11951,High school diploma,1,High,2,0,100,Conservative,0,0,-1,32,0,0,26,0,0,12.28,10.53
+761,66,50322,Some college,1,High,2,50,50,Conservative,0,-12,-9,-10,-30,11,-19,-9,-1,9.09,0
+762,32,10701,College degree,1,High,2,83,17,aLiberal,3,5,2,-6,0,0,7,14,0,6.25,0
+763,67,98370,Some college,1,High,2,35,65,Conservative,1,0,0,0,1,0,0,0,9,5.07,4.35
+764,48,62982,High school diploma,1,High,2,51,49,aLiberal,62,8,20,0,-3,-6,8,23,16,17.5,17.5
+765,63,29169,Some college,0,High,2,71,29,aLiberal,50,0,30,0,0,0,-1,0,50,12.5,0
+766,67,54896,High school diploma,1,High,2,50,50,Conservative,-1,0,-16,22,-8,0,6,17,0,5.26,0
+767,64,11106,College degree,1,High,2,36,64,Conservative,-38,-44,-22,-13,-12,6,-12,-13,-2,16.67,0
+768,56,92603,College degree,1,High,2,50,50,Conservative,-2,1,-4,2,1,-2,0,6,-2,0,0
+769,58,29063,College degree,1,High,2,56,44,aLiberal,19,17,0,7,4,0,0,6,22,0,0
+770,46,19720,High school diploma,1,High,2,37,63,Conservative,47,-18,5,-6,-5,16,4,-7,-5,21.43,14.29
+771,69,42206,High school diploma,1,High,2,0,100,Conservative,-21,0,-33,-16,-5,28,-7,0,-16,4.35,2.61
+772,67,80538,College degree,1,High,2,31,69,Conservative,-3,7,-9,-2,-5,-9,-13,-11,0,8.82,0
+773,42,93550,High school diploma,0,High,2,79,21,aLiberal,0,58,-71,-13,-11,-6,6,-4,-17,0,0
+774,45,17972,College degree,1,High,2,50,50,Conservative,0,-3,4,50,0,-2,0,-1,0,0,0
+775,49,42649,High school diploma,1,High,2,50,50,Conservative,27,32,30,20,18,15,30,-2,33,0,0
+776,36,53186,Some college,1,High,2,46,54,Conservative,-9,-7,2,-2,9,15,13,5,-8,9.52,4.76
+777,40,90036,College degree,0,High,2,0,100,Conservative,0,0,0,0,0,0,0,0,0,62.5,0
+778,61,87144,Graduate degree,1,High,2,44,56,Conservative,-3,2,3,-11,-11,-4,6,-9,0,4.41,0
+779,63,92585,Some college,1,High,2,66,34,aLiberal,9,1,12,0,-20,0,0,0,10,3.57,0
+780,35,27007,Graduate degree,0,High,2,100,0,aLiberal,-6,14,-3,-5,13,2,-12,-9,-10,21.05,21.05
+781,37,89044,Graduate degree,1,High,2,100,0,aLiberal,-14,0,0,0,3,0,0,0,11,0,0
+782,26,74136,High school diploma,1,High,2,50,50,Conservative,0,0,0,0,0,17,0,0,0,22.58,0
+783,40,17101,Some college,1,High,2,50,50,Conservative,38,-53,-1,22,22,6,13,6,55,3.13,2.34
+784,22,22427,Some college,0,High,2,51,49,aLiberal,0,0,0,0,0,0,0,0,0,0,0
+785,55,99141,High school diploma,1,High,2,0,100,Conservative,0,0,0,0,0,0,0,0,0,8.33,0
+786,66,11360,High school diploma,0,High,2,8,92,Conservative,0,4,1,8,0,-5,1,2,0,1.92,0
+787,65,95351,Some high school,1,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,4.55,2.27
+788,56,98226,Some college,1,High,2,22,78,Conservative,19,26,11,6,15,19,8,30,-6,4.5,0
+789,52,46375,Graduate degree,1,High,2,83,17,aLiberal,2,8,0,0,21,-8,9,1,0,0,0
+790,74,29108,High school diploma,1,High,2,55,45,aLiberal,15,-10,-4,7,-2,3,3,18,6,3.03,0
+791,49,92192,College degree,1,High,2,39,61,Conservative,26,-5,-17,36,1,0,-3,0,11,5.61,0.93
+792,55,44685,College degree,1,High,2,0,100,Conservative,0,-1,-1,-4,0,0,9,1,0,2.41,2.41
+793,64,32640,College degree,1,High,2,50,50,Conservative,0,-12,0,14,29,2,9,7,0,5.88,0
+794,33,75216,College degree,0,High,2,0,100,Conservative,23,0,-19,-15,15,5,18,17,42,0,0
+795,67,48640,College degree,1,High,2,12,88,Conservative,-3,11,7,20,8,10,5,2,1,6,0
+796,49,28665,College degree,1,High,2,0,100,Conservative,-4,1,0,31,-26,0,-63,-1,-14,4.17,4.17
+797,64,47304,Graduate degree,1,High,2,92,8,aLiberal,13,-6,24,17,34,26,9,25,-9,3.57,3.57
+798,65,76574,Some college,1,High,2,70,30,aLiberal,15,-2,-2,-13,-13,7,-10,0,24,1.79,0
+799,68,33881,College degree,0,High,2,92,8,aLiberal,13,1,-15,0,10,0,8,5,-3,2.38,0
+800,70,11106,High school diploma,1,High,2,50,50,Conservative,15,21,33,34,-1,0,37,0,6,45.45,9.09
+801,56,76210,Some college,1,High,2,0,100,Conservative,-24,-3,-4,-4,-19,-1,3,4,-2,0,0
+802,32,10001,College degree,0,High,2,85,15,aLiberal,12,1,0,0,0,-8,8,-4,10,0,0
+803,39,40977,Some college,1,High,2,100,0,aLiberal,-9,24,1,5,5,6,14,-2,-24,0,0
+804,60,48439,Some college,1,High,2,49,51,Conservative,10,0,0,0,0,0,0,0,5,5.13,0
+805,73,30519,Graduate degree,1,High,2,56,44,aLiberal,9,0,0,1,4,0,-2,3,27,0,0
+806,60,28374,College degree,1,High,2,100,0,aLiberal,0,4,-9,17,-31,-7,0,33,1,0,0
+807,71,96002,College degree,1,High,2,62,38,aLiberal,0,6,0,0,-7,0,0,0,20,13.86,2.97
+808,43,8757,College degree,1,High,2,14,86,Conservative,-12,-5,23,20,-15,13,2,12,-1,0,0
+809,61,14626,Some college,1,High,2,41,59,Conservative,-2,6,-4,10,5,5,2,8,-9,1.82,0
+810,65,50315,College degree,1,High,2,100,0,aLiberal,13,1,7,17,6,0,15,0,-10,3.08,0
+811,58,24630,Some college,1,High,2,97,3,aLiberal,2,2,4,3,-2,-8,1,0,29,13.95,6.98
+812,62,11101,College degree,1,High,2,61,39,aLiberal,-9,14,-1,0,10,-7,6,0,-2,4.55,0
+813,74,29572,Some college,1,High,2,50,50,Conservative,0,-4,-2,8,3,8,-6,-8,-1,0,0
+814,70,78240,Some college,1,High,2,74,26,aLiberal,1,-19,18,5,3,0,0,0,0,6.78,0
+815,24,10001,Some college,0,High,2,71,29,aLiberal,45,-28,-5,28,20,18,33,31,-49,0,0
+816,65,37381,Some college,1,High,2,54,46,aLiberal,0,-50,0,5,25,0,8,0,0,6.35,1.59
+817,70,52404,Some college,1,High,2,52,48,aLiberal,3,-16,0,0,14,0,0,0,21,9.4,2.56
+818,71,37804,College degree,0,High,2,9,91,Conservative,0,-13,-12,0,-4,-7,-11,18,1,1.94,0
+819,64,37411,College degree,0,High,2,65,35,aLiberal,-48,10,-2,5,-21,15,26,0,2,0,0
+820,67,34986,Graduate degree,1,High,2,6,94,Conservative,3,6,-7,-13,9,-9,-13,11,13,4.72,1.57
+821,65,87112,Graduate degree,0,High,2,0,100,Conservative,0,10,0,0,-4,21,-5,5,0,11.63,4.65
+822,53,30281,High school diploma,1,High,2,84,16,aLiberal,4,10,3,-1,-7,10,-2,-7,-15,0,0
+823,55,55811,Graduate degree,1,High,2,88,12,aLiberal,-1,-1,0,0,1,7,12,0,9,0,0
+824,66,32095,College degree,1,High,2,15,85,Conservative,-2,7,6,8,2,0,-20,17,16,2.63,0.44
+825,35,72704,College degree,0,High,2,50,50,Conservative,-4,0,0,41,0,0,17,-8,0,0,0
+826,40,60194,College degree,0,High,2,50,50,Conservative,-6,0,-8,-8,-22,0,-14,0,-14,8.33,0
+827,66,48310,College degree,0,High,2,29,71,Conservative,8,0,3,1,-5,-12,-2,-6,0,2.6,0
+828,75,83536,Some college,0,High,2,51,49,aLiberal,0,-1,-21,-4,-7,3,11,-10,1,0,0
+829,51,74429,College degree,0,High,2,83,17,aLiberal,3,5,9,4,10,17,22,6,10,2.63,1.32
+830,68,23421,College degree,0,High,2,0,100,Conservative,0,9,-8,2,0,0,19,0,0,0,0
+831,65,80228,Some college,0,High,2,82,18,aLiberal,63,12,-4,1,55,9,14,11,55,2.23,0
+832,74,2767,Graduate degree,0,High,2,19,81,Conservative,-13,-10,6,19,-9,5,9,11,-12,1.14,0
+833,50,12166,High school diploma,1,High,2,83,17,aLiberal,15,-3,12,13,24,7,11,1,23,6.25,0
+834,57,46779,High school diploma,1,High,2,49,51,Conservative,25,18,10,-3,32,32,23,7,10,11.11,0
+835,22,23606,Some college,1,High,2,90,10,aLiberal,11,-4,-7,1,-1,0,16,-5,5,1.72,0
+836,75,66049,Graduate degree,1,High,2,82,18,aLiberal,-26,0,0,0,-14,0,0,0,12,16.28,0
+837,67,23185,College degree,1,High,2,92,8,aLiberal,0,0,0,0,0,0,0,0,0,8,2
+838,39,98133,College degree,0,High,2,49,51,Conservative,10,-8,5,0,-7,19,-1,1,16,0,0
+839,24,94806,College degree,1,High,2,100,0,aLiberal,0,0,-5,0,0,16,20,0,0,5.56,0
+840,49,63901,High school diploma,0,High,2,30,70,Conservative,0,0,0,0,-9,-83,0,9,0,4.17,0
+841,44,85225,Some college,1,High,2,50,50,Conservative,0,-21,0,0,0,1,0,0,0,3.03,0
+842,75,85248,College degree,1,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,3.45,0
+843,73,62040,College degree,1,High,2,0,100,Conservative,-8,-7,0,-10,0,9,10,-26,-11,2.7,2.16
+844,24,65583,High school diploma,0,High,2,51,49,aLiberal,9,-19,0,0,10,0,0,0,0,45.45,36.36
+845,18,40526,High school diploma,1,High,2,89,11,aLiberal,0,0,-3,0,0,0,0,0,0,0,0
+846,42,79605,Some college,1,High,2,50,50,Conservative,-2,1,-1,0,0,-2,2,1,51,0,0
+847,29,29627,College degree,1,High,2,0,100,Conservative,23,-11,-9,9,24,17,0,18,-6,2.99,0
+848,28,67058,College degree,1,High,2,33,67,Conservative,-19,-17,0,-9,-21,10,-2,0,0,8.33,0
+849,70,20758,College degree,1,High,2,30,70,Conservative,6,-1,-3,2,-8,5,3,-1,-4,0,0
+850,44,85629,College degree,1,High,2,59,41,aLiberal,2,-1,-1,0,3,0,7,8,-6,1.14,0
+851,71,66952,College degree,1,High,2,83,17,aLiberal,1,-7,7,0,-2,0,0,-11,8,2,2
+852,55,64055,High school diploma,1,High,2,50,50,Conservative,41,-28,27,-17,18,11,28,-5,7,11.76,4.41
+853,74,17015,Graduate degree,1,High,2,100,0,aLiberal,2,0,0,0,2,0,0,0,2,0,0
+854,38,48875,College degree,1,High,2,92,8,aLiberal,2,-3,1,9,1,-10,-15,3,-2,0,0
+855,69,89131,Some high school,0,High,2,0,100,Conservative,1,-43,0,-6,4,-6,1,12,-5,12.5,0
+856,63,61554,Graduate degree,0,High,2,50,50,Conservative,0,-1,8,0,-20,0,-52,1,0,0,0
+857,75,16137,College degree,0,High,2,75,25,aLiberal,-1,7,26,0,-1,4,-7,4,-2,2.47,0
+858,67,64068,Graduate degree,0,High,2,76,24,aLiberal,-43,0,0,-5,28,0,-11,-18,3,3.45,0
+859,71,55417,High school diploma,0,High,2,1,99,Conservative,-17,0,38,8,1,6,6,5,7,3.41,3.41
+860,68,28451,High school diploma,0,High,2,50,50,Conservative,11,-6,9,0,14,0,0,0,3,1.79,0
+861,75,73068,Some college,0,High,2,50,50,Conservative,0,3,-1,-10,-10,12,0,28,0,35.29,0
+862,75,30252,Graduate degree,0,High,2,0,100,Conservative,-5,1,1,1,14,-2,-10,6,33,0,0
+863,33,98059,College degree,1,High,2,94,6,aLiberal,-5,-11,-11,-2,9,3,-19,-11,4,1.47,0
+864,44,62521,High school diploma,0,High,2,1,99,Conservative,7,15,3,14,13,7,24,21,-3,10.53,10.53
+865,70,97338,Graduate degree,1,High,2,86,14,aLiberal,-13,-11,0,0,-23,2,9,-6,-7,6.98,0
+866,65,76180,Graduate degree,0,High,2,52,48,aLiberal,5,2,-2,0,2,0,5,1,12,6.25,3.13
+867,60,89121,College degree,0,High,2,7,93,Conservative,15,-4,-9,-12,8,3,-13,9,0,11.11,0
+868,68,89148,College degree,0,High,2,50,50,Conservative,0,0,0,0,0,0,0,0,0,6.56,1.64
+869,64,90008,Some college,0,High,2,88,12,aLiberal,0,0,0,0,0,0,0,0,0,2.5,0
+870,67,52577,College degree,0,High,2,19,81,Conservative,0,3,-1,-2,-7,-2,-4,4,0,3.57,0
+871,74,92530,College degree,0,High,2,56,44,aLiberal,1,-1,1,-7,-2,3,1,-3,9,0,0
+872,41,55806,Some college,0,High,2,7,93,Conservative,0,1,14,-2,0,3,12,0,0,4.76,2.86
+873,69,14471,High school diploma,0,High,2,20,80,Conservative,0,2,3,0,40,0,0,0,0,0,0
+874,56,78233,College degree,0,High,2,77,23,aLiberal,2,6,-7,3,-4,0,13,3,1,8.7,6.52
+875,41,75605,Some college,0,High,2,34,66,Conservative,26,-15,8,12,27,5,32,4,49,7.21,0.9
+876,50,80910,Some college,1,High,2,51,49,aLiberal,1,11,3,-8,6,10,-10,-6,9,9.09,0
+877,33,92647,Some college,0,High,2,50,50,Conservative,22,20,0,0,24,0,10,0,47,4.92,0
+878,27,14895,Some high school,0,High,2,42,58,Conservative,-59,27,-7,0,46,0,27,0,-16,2.13,0
+879,36,32819,Graduate degree,0,High,2,98,2,aLiberal,4,1,7,14,2,4,2,7,6,6.25,6.25
+880,35,76110,College degree,0,High,2,5,95,Conservative,5,9,15,3,11,0,66,63,12,6.9,1.72
+881,29,43604,High school diploma,0,High,2,100,0,aLiberal,-2,-3,0,0,-2,-4,-3,-1,-1,25.64,15.38
+882,49,33311,Some college,0,High,2,52,48,aLiberal,32,0,-1,4,-21,1,13,-2,-19,0,0
+883,40,10001,Graduate degree,0,High,2,49,51,Conservative,8,12,14,15,8,7,18,9,-4,10.53,0
+884,56,62095,College degree,0,High,2,51,49,aLiberal,0,5,-2,-4,5,-10,0,-6,-1,0,0
+885,62,37388,High school diploma,0,High,2,100,0,aLiberal,0,0,0,0,0,0,0,0,0,3.61,1.2
+886,56,10941,Some college,0,High,2,50,50,Conservative,7,19,-6,9,-34,-8,-38,-5,-30,26.32,10.53
+887,41,80123,Graduate degree,1,High,2,50,50,Conservative,3,0,3,4,7,8,0,13,0,66.67,41.67
+888,49,38305,High school diploma,1,Low,1,46,54,Conservative,-44,19,-10,13,11,22,3,1,-31,2.94,0
+889,66,28540,College degree,1,High,2,52,48,aLiberal,-3,-25,-17,-21,-12,-13,13,6,-1,4.55,2.27
+890,31,67037,High school diploma,1,High,2,55,45,aLiberal,-3,13,-29,0,-20,15,22,0,-16,0,0
+891,43,35601,Some high school,1,Low,1,49,51,Conservative,-9,-41,-36,-19,-27,-6,-23,-27,-35,0,0
+892,58,32068,Some college,0,High,2,0,100,Conservative,0,6,30,-58,-2,-5,0,5,0,0,0
+893,65,49770,Some college,1,High,2,53,47,aLiberal,82,19,0,0,88,21,13,0,50,4.55,1.52
+894,72,53572,Some college,1,Low,1,41,59,Conservative,5,-2,-3,0,4,-7,1,5,0,4.08,1.02
+895,,75218,Some high school,1,High,2,100,0,aLiberal,-16,1,14,-57,-21,-5,-22,-40,-6,0,0
+896,61,42220,Some college,1,High,2,48,52,Conservative,12,5,-9,-1,9,7,4,-4,14,0,0
+897,71,54481,Graduate degree,0,High,2,100,0,aLiberal,12,0,0,0,2,0,0,-3,10,3.49,1.16
+898,70,27371,High school diploma,1,High,2,21,79,Conservative,-1,10,-1,-5,-5,-31,-5,4,-2,38.1,4.76
+899,48,13501,Some college,0,High,2,50,50,Conservative,23,21,-49,22,17,11,30,15,-24,0,0
+900,22,33870,College degree,0,Low,1,0,100,Conservative,0,0,0,0,0,0,0,-47,0,0,0
