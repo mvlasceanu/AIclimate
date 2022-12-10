@@ -1,0 +1,698 @@
+ID,age,edu,gender,Condition,ide,WC,Affect,emotion
+201,32,Graduate degree,0,Low,78,47,12.77,8.51
+202,50,Some college,1,Low,46,36,16.67,16.67
+203,23,High school diploma,0,Low,5,19,0,0
+204,66,High school diploma,1,Low,30,74,1.35,0
+205,35,Some college,0,Low,91,9,33.33,0
+206,35,Graduate degree,0,Low,90,35,0,0
+207,36,Graduate degree,1,Low,96,61,0,0
+208,36,College degree,0,Low,61,25,28,4
+209,70,Some college,1,Low,73,72,1.39,1.39
+210,22,Some college,0,Low,92,40,20,0
+211,22,Graduate degree,1,Low,100,24,37.5,12.5
+212,59,Some college,0,Low,55,53,3.77,0
+213,71,College degree,1,Low,6,27,0,0
+214,73,College degree,1,Low,89,78,3.85,1.28
+215,35,Graduate degree,0,Low,85,44,0,0
+216,72,Some college,1,Low,60,30,0,0
+217,28,Graduate degree,1,Low,44,50,10,6
+218,68,Some high school,1,Low,24,54,3.7,0
+219,72,Some college,1,Low,52,175,3.43,0
+220,70,College degree,1,Low,50,149,6.04,4.03
+221,61,College degree,1,Low,52,44,4.55,0
+222,35,Graduate degree,0,Low,100,13,7.69,0
+223,66,College degree,1,Low,4,155,0,0
+224,40,High school diploma,0,Low,51,42,2.38,0
+225,60,Graduate degree,1,Low,50,10,10,10
+226,69,Some college,1,Low,24,14,0,0
+227,28,Graduate degree,1,Low,79,30,20,13.33
+228,30,Graduate degree,0,Low,96,15,0,0
+229,73,College degree,0,Low,18,28,3.57,3.57
+230,70,Graduate degree,0,Low,30,70,1.43,0
+231,29,College degree,0,Low,50,15,6.67,0
+232,53,Some college,1,Low,57,57,0,0
+233,73,High school diploma,0,Low,50,14,0,0
+234,29,College degree,0,Low,51,27,3.7,0
+235,42,Graduate degree,0,Low,82,51,35.29,21.57
+236,73,Some college,0,Low,50,149,2.68,0
+237,56,High school diploma,1,Low,18,71,2.82,1.41
+238,21,Some college,1,Low,100,21,0,0
+239,73,High school diploma,0,Low,30,37,0,0
+240,60,Graduate degree,0,Low,93,18,16.67,16.67
+241,68,Some college,0,Low,71,51,5.88,0
+242,42,College degree,1,Low,62,36,0,0
+243,70,Some college,1,Low,0,61,6.56,1.64
+244,61,Some college,0,Low,29,26,15.38,3.85
+245,73,College degree,1,Low,0,26,3.85,0
+246,68,High school diploma,1,Low,94,99,7.07,1.01
+247,52,Some college,1,Low,100,36,5.56,0
+248,69,College degree,1,Low,100,27,14.81,3.7
+249,44,Some college,1,Low,10,8,50,37.5
+250,72,College degree,1,Low,44,70,1.43,0
+251,67,Some college,1,Low,53,107,2.8,0
+252,71,College degree,0,Low,80,18,22.22,16.67
+253,67,College degree,1,Low,50,64,0,0
+254,72,College degree,0,Low,31,66,3.03,1.52
+255,59,High school diploma,1,Low,23,20,10,0
+256,62,High school diploma,0,Low,69,68,0,0
+257,22,Some college,1,Low,89,72,0,0
+258,55,College degree,0,Low,40,25,0,0
+259,66,College degree,1,Low,60,28,3.57,0
+260,25,Some college,1,Low,68,210,2.38,0.48
+261,69,College degree,0,Low,100,45,0,0
+262,68,Graduate degree,0,Low,67,45,6.67,4.44
+263,72,Some college,0,Low,51,18,0,0
+264,52,Graduate degree,0,Low,8,16,0,0
+265,42,Some college,1,Low,88,49,0,0
+266,34,Some college,1,Low,52,16,0,0
+267,32,Some college,1,Low,65,9,0,0
+268,69,College degree,0,Low,6,47,6.38,2.13
+269,50,Some college,1,Low,51,42,7.14,2.38
+270,22,Some college,1,Low,80,16,0,0
+271,40,Some college,0,Low,100,31,19.35,0
+272,38,High school diploma,1,Low,50,26,0,0
+273,26,College degree,0,Low,9,61,9.84,0
+274,35,Some college,0,Low,100,12,33.33,8.33
+275,32,High school diploma,1,Low,51,17,0,0
+276,73,Some college,1,Low,82,17,17.65,11.76
+277,58,College degree,0,Low,53,9,11.11,0
+278,32,College degree,1,Low,0,55,0,0
+279,74,College degree,1,Low,82,66,1.52,0
+280,45,Some college,1,Low,37,34,5.88,2.94
+281,68,Some college,1,Low,60,54,1.85,1.85
+282,66,College degree,0,Low,0,48,6.25,2.08
+283,70,Some college,1,Low,13,166,0.6,0.6
+284,47,Graduate degree,1,Low,87,158,8.23,2.53
+285,65,College degree,1,Low,48,31,3.23,0
+286,43,Some college,1,Low,50,18,0,0
+287,51,College degree,1,Low,34,27,29.63,18.52
+288,43,Some college,1,Low,50,59,6.78,1.69
+289,52,Graduate degree,0,Low,62,25,8,0
+290,59,High school diploma,0,Low,0,23,0,0
+291,59,College degree,1,Low,15,179,1.12,0.56
+292,57,Some college,1,Low,86,16,0,0
+293,61,High school diploma,0,Low,64,34,5.88,0
+294,65,Some college,1,Low,100,52,15.38,11.54
+295,72,College degree,1,Low,42,60,5,1.67
+296,40,College degree,1,Low,72,37,2.7,2.7
+297,35,Graduate degree,0,Low,100,28,0,0
+298,19,High school diploma,1,Low,100,143,3.5,0.7
+299,55,College degree,1,Low,27,48,0,0
+300,21,Some high school,1,Low,52,103,0.97,0.97
+301,30,Some college,1,Low,41,32,12.5,6.25
+302,31,High school diploma,0,Low,46,29,3.45,3.45
+303,72,College degree,0,Low,0,111,6.31,0.9
+304,64,College degree,0,Low,40,62,3.23,0
+305,65,Some college,0,Low,7,14,0,0
+307,67,Graduate degree,0,Low,50,86,9.3,9.3
+308,51,High school diploma,0,Low,50,16,0,0
+309,54,College degree,0,Low,50,89,2.25,2.25
+310,68,College degree,0,Low,0,81,0,0
+311,35,Graduate degree,0,Low,91,15,0,0
+312,36,College degree,0,Low,23,95,4.21,0
+313,32,High school diploma,0,Low,60,24,33.33,33.33
+314,51,Graduate degree,0,Low,47,24,0,0
+315,25,Some college,0,Low,51,15,0,0
+316,72,College degree,0,Low,61,105,1.9,0.95
+317,29,High school diploma,0,Low,50,23,4.35,0
+318,47,College degree,1,Low,65,29,6.9,0
+319,44,High school diploma,1,Low,1,36,0,0
+320,69,Some college,0,Low,51,33,6.06,6.06
+321,72,College degree,1,Low,85,38,0,0
+322,62,High school diploma,1,Low,40,39,0,0
+323,68,College degree,0,Low,7,31,9.68,0
+324,41,High school diploma,1,Low,10,120,1.67,0.83
+325,74,College degree,0,Low,82,74,1.35,1.35
+326,66,Some college,1,Low,76,75,2.67,1.33
+327,64,Some college,0,Low,10,56,3.57,3.57
+328,73,Some college,1,Low,13,24,0,0
+329,56,College degree,1,Low,86,104,2.88,0.96
+330,73,Some college,0,Low,81,18,27.78,11.11
+331,65,Some college,1,Low,81,127,1.57,0
+332,70,Some college,1,Low,50,112,6.25,0
+333,56,College degree,1,Low,80,148,0,0
+334,66,High school diploma,1,Low,40,76,0,0
+335,64,Some college,1,Low,13,41,0,0
+336,74,High school diploma,1,Low,100,18,5.56,0
+337,66,College degree,1,Low,0,32,0,0
+338,69,Some college,1,Low,0,93,0,0
+339,75,High school diploma,0,Low,14,32,3.13,0
+340,66,Some college,1,Low,28,26,7.69,3.85
+341,74,Some college,0,Low,51,126,1.59,0
+342,52,Graduate degree,0,Low,73,66,3.03,0
+343,73,Some college,1,Low,50,133,0.75,0.75
+344,66,Some college,1,Low,54,48,2.08,0
+345,32,College degree,1,Low,78,18,50,11.11
+346,71,Some college,1,Low,1,24,0,0
+347,61,High school diploma,1,Low,50,44,0,0
+348,74,High school diploma,1,Low,100,70,1.43,0
+349,74,Some college,1,Low,52,51,19.61,3.92
+350,60,Some college,1,Low,50,22,0,0
+351,67,Graduate degree,1,Low,14,103,0.97,0
+352,75,Some college,1,Low,0,85,4.71,3.53
+353,69,College degree,0,Low,0,36,2.78,2.78
+354,68,College degree,1,Low,100,60,1.67,0
+355,61,College degree,1,Low,79,64,0,0
+356,75,Some college,1,Low,86,171,2.34,1.17
+357,61,High school diploma,0,Low,31,83,2.41,1.2
+358,71,College degree,1,Low,68,81,2.47,0
+359,64,College degree,1,Low,74,46,0,0
+360,73,Some college,1,Low,82,164,1.83,0
+361,72,Some college,1,Low,74,63,0,0
+362,67,Some college,1,Low,50,49,0,0
+363,53,High school diploma,1,Low,20,93,0,0
+364,47,Some college,1,Low,90,24,33.33,0
+365,39,College degree,0,Low,50,11,0,0
+366,25,Some high school,1,Low,0,51,5.88,3.92
+367,28,Some college,1,Low,51,116,2.59,0.86
+368,70,College degree,0,Low,0,64,4.69,1.56
+369,75,College degree,1,Low,53,89,11.24,4.49
+370,73,Some college,0,Low,48,78,1.28,0
+371,48,High school diploma,1,Low,9,73,0,0
+372,70,Some college,0,Low,0,67,2.99,2.99
+373,72,College degree,1,Low,21,58,3.45,1.72
+374,60,College degree,1,Low,78,52,3.85,1.92
+375,60,Some college,1,Low,50,58,3.45,1.72
+376,73,High school diploma,1,Low,100,126,1.59,1.59
+377,66,College degree,1,Low,83,82,0,0
+378,29,High school diploma,1,Low,100,53,3.77,3.77
+379,66,College degree,1,Low,59,77,1.3,0
+380,53,High school diploma,1,Low,31,34,8.82,2.94
+381,70,Some college,1,Low,0,74,2.7,2.7
+382,58,High school diploma,1,Low,10,38,0,0
+383,56,Some college,1,Low,94,57,1.75,0
+384,67,Graduate degree,1,Low,0,240,3.33,1.25
+385,69,Some college,1,Low,72,155,5.16,2.58
+386,56,Some college,1,Low,19,59,0,0
+387,53,Some college,0,Low,90,18,0,0
+388,71,College degree,0,Low,100,71,1.41,0
+389,68,College degree,1,Low,21,386,3.37,0.78
+390,31,High school diploma,other,Low,100,89,4.49,2.25
+391,72,Some college,1,Low,50,19,5.26,5.26
+392,25,College degree,1,Low,100,52,1.92,0
+393,34,College degree,1,Low,51,47,0,0
+394,25,High school diploma,1,Low,60,13,15.38,0
+395,66,Graduate degree,0,Low,100,61,6.56,0
+396,55,High school diploma,0,Low,30,18,0,0
+397,36,Some college,1,Low,94,52,1.92,1.92
+398,49,College degree,1,Low,57,106,2.83,0
+399,69,High school diploma,1,Low,84,40,0,0
+400,64,High school diploma,1,Low,87,39,5.13,5.13
+401,36,Some college,1,Low,59,30,6.67,3.33
+402,65,College degree,1,Low,57,17,0,0
+403,67,College degree,1,Low,34,64,9.38,6.25
+404,60,High school diploma,0,Low,50,12,16.67,8.33
+405,70,College degree,1,Low,61,71,4.23,0
+406,50,High school diploma,1,Low,49,47,0,0
+407,37,High school diploma,0,Low,82,36,2.78,0
+408,64,Graduate degree,1,Low,57,75,4,0
+409,71,College degree,1,Low,51,172,5.81,0.58
+410,70,High school diploma,1,Low,0,72,5.56,2.78
+411,48,Some college,1,Low,45,70,2.86,0
+412,61,College degree,0,Low,50,19,15.79,5.26
+413,34,High school diploma,1,Low,50,30,3.33,0
+414,49,Some college,1,Low,50,73,4.11,4.11
+415,35,High school diploma,1,Low,47,35,0,0
+416,47,Some high school,1,Low,52,29,0,0
+417,40,College degree,0,Low,55,32,0,0
+418,72,High school diploma,1,Low,59,52,1.92,1.92
+419,35,College degree,1,Low,50,115,0.87,0.87
+420,49,Some college,1,Low,1,31,6.45,3.23
+421,66,Some college,1,Low,77,61,3.28,1.64
+422,35,Graduate degree,0,Low,40,27,0,0
+423,25,Some college,0,Low,88,16,0,0
+424,23,High school diploma,1,Low,71,19,0,0
+425,47,College degree,1,Low,100,16,0,0
+426,56,Some college,1,Low,50,88,1.14,0
+427,60,Some college,0,Low,100,105,0.95,0
+428,40,High school diploma,1,Low,50,23,4.35,0
+429,59,High school diploma,1,Low,55,193,0,0
+430,65,High school diploma,0,Low,91,58,0,0
+431,69,College degree,1,Low,0,120,3.33,1.67
+432,59,College degree,1,Low,92,78,5.13,1.28
+433,63,College degree,1,Low,94,50,0,0
+434,69,High school diploma,1,Low,0,21,0,0
+435,74,College degree,1,Low,81,52,21.15,9.62
+436,71,High school diploma,1,Low,1,93,0,0
+437,57,High school diploma,1,Low,50,128,5.47,2.34
+438,60,Some college,1,Low,48,182,4.95,1.65
+439,43,High school diploma,1,Low,77,61,3.28,1.64
+440,65,Graduate degree,1,Low,50,29,0,0
+441,69,Some college,0,Low,64,38,2.63,2.63
+442,55,College degree,1,Low,50,68,0,0
+443,68,College degree,1,Low,92,93,3.23,0
+444,64,High school diploma,1,Low,50,49,0,0
+445,69,Some college,1,Low,0,58,8.62,1.72
+446,65,Some college,1,Low,21,101,1.98,0
+447,41,Graduate degree,0,Low,95,23,0,0
+448,66,College degree,1,Low,28,35,14.29,14.29
+449,65,Some college,1,Low,0,62,3.23,1.61
+450,72,Some college,1,Low,9,131,1.53,0
+451,74,Some college,1,Low,50,179,1.12,0
+452,60,High school diploma,0,Low,100,60,5,1.67
+453,44,Some college,1,Low,95,54,9.26,0
+454,65,College degree,1,Low,31,45,2.22,0
+455,62,Graduate degree,1,Low,28,14,14.29,0
+457,24,Some college,1,Low,50,42,0,0
+458,57,Graduate degree,0,Low,100,30,23.33,20
+459,63,Graduate degree,1,Low,50,78,5.13,1.28
+460,70,College degree,1,Low,53,35,0,0
+461,64,Some college,1,Low,0,95,5.26,4.21
+462,37,High school diploma,1,Low,100,17,0,0
+463,65,High school diploma,1,Low,50,71,1.41,1.41
+464,65,High school diploma,1,Low,100,103,2.91,0
+465,58,College degree,1,Low,3,50,2,0
+466,70,High school diploma,1,Low,0,41,2.44,2.44
+467,67,Some college,1,Low,9,43,11.63,0
+468,59,College degree,1,Low,35,21,9.52,0
+469,54,Some college,1,Low,0,125,2.4,0.8
+470,70,Graduate degree,1,Low,100,183,3.28,0
+471,52,Some college,1,Low,0,56,12.5,5.36
+472,66,Some college,0,Low,0,23,0,0
+473,72,Graduate degree,1,Low,8,71,2.82,2.82
+474,71,College degree,0,Low,9,97,4.12,1.03
+475,60,High school diploma,0,Low,5,170,3.53,0.59
+476,75,College degree,0,Low,1,56,1.79,0
+477,70,Some college,0,Low,0,90,6.67,3.33
+478,73,Graduate degree,0,Low,83,103,0,0
+479,71,Graduate degree,0,Low,2,18,0,0
+480,59,College degree,0,Low,58,66,0,0
+481,67,Some college,1,Low,95,49,0,0
+482,68,Graduate degree,0,Low,86,70,2.86,1.43
+483,75,Some college,0,Low,77,36,2.78,2.78
+484,46,Some college,1,Low,0,43,4.65,2.33
+485,69,Some college,1,Low,9,45,13.33,2.22
+486,67,Graduate degree,1,Low,75,95,1.05,0
+487,30,College degree,0,Low,56,39,2.56,0
+488,75,Some college,1,Low,32,99,9.09,4.04
+489,65,Some college,1,Low,65,60,5,1.67
+491,62,Some college,0,Low,50,25,0,0
+492,43,College degree,0,Low,100,45,2.22,2.22
+493,58,Some college,1,Low,18,56,0,0
+494,41,High school diploma,0,Low,8,32,0,0
+495,64,High school diploma,1,Low,52,31,3.23,0
+496,69,Some college,1,Low,9,29,10.34,3.45
+497,73,High school diploma,1,Low,86,8,12.5,12.5
+498,18,Some college,1,Low,100,61,1.64,0
+499,32,High school diploma,1,Low,50,66,9.09,1.52
+500,18,High school diploma,1,Low,83,59,3.39,1.69
+501,31,College degree,1,Low,68,56,3.57,0
+502,63,College degree,1,Low,54,47,8.51,2.13
+503,49,College degree,1,Low,25,47,8.51,2.13
+504,30,High school diploma,1,Low,50,54,0,0
+505,67,College degree,1,Low,55,38,0,0
+506,74,College degree,1,Low,86,77,2.6,0
+507,40,College degree,1,Low,100,53,1.89,1.89
+508,66,High school diploma,0,Low,84,55,5.45,0
+509,75,Graduate degree,0,Low,67,109,7.34,0
+510,71,College degree,0,Low,0,119,5.04,0
+511,40,College degree,0,Low,100,168,3.57,0.6
+512,29,Some college,0,Low,100,63,0,0
+513,72,Some college,0,Low,0,23,4.35,0
+514,47,College degree,0,Low,45,106,2.83,0.94
+515,68,Some college,0,Low,17,78,2.56,0
+516,71,Some college,0,Low,6,67,5.97,2.99
+517,64,College degree,0,Low,0,59,0,0
+518,24,High school diploma,0,Low,50,8,0,0
+519,69,High school diploma,0,Low,26,34,8.82,5.88
+520,55,College degree,0,Low,36,18,27.78,11.11
+521,44,College degree,0,Low,50,38,2.63,0
+522,63,Some college,0,Low,18,120,4.17,2.5
+523,55,Some college,0,Low,32,55,0,0
+524,35,Some high school,0,Low,50,52,1.92,0
+525,63,High school diploma,0,Low,0,16,0,0
+526,75,Some college,0,Low,60,40,0,0
+527,39,Some college,0,Low,28,60,0,0
+528,72,College degree,0,Low,84,16,12.5,6.25
+529,53,College degree,0,Low,63,28,3.57,0
+530,28,College degree,0,Low,20,48,0,0
+531,43,High school diploma,0,Low,100,65,0,0
+532,27,College degree,0,Low,64,10,30,10
+533,75,Graduate degree,0,Low,17,26,0,0
+534,73,College degree,0,Low,19,162,2.47,0.62
+535,67,High school diploma,0,Low,46,9,0,0
+536,60,High school diploma,1,Low,100,72,2.78,1.39
+537,28,Some college,0,Low,85,110,2.73,0.91
+538,56,Some college,0,Low,50,59,1.69,1.69
+539,56,High school diploma,0,Low,85,25,0,0
+540,32,College degree,0,Low,53,16,6.25,0
+541,67,College degree,1,Low,86,67,10.45,5.97
+542,35,Graduate degree,0,Low,0,38,18.42,10.53
+543,40,Graduate degree,0,Low,100,16,50,6.25
+544,26,College degree,0,High,94,53,16.98,5.66
+545,73,Some college,1,High,87,68,10.29,2.94
+546,31,Some college,0,High,78,10,30,10
+547,36,College degree,0,High,54,20,35,10
+548,72,College degree,0,High,76,51,7.84,1.96
+549,29,High school diploma,1,High,86,8,50,12.5
+550,61,High school diploma,1,High,67,50,0,0
+551,67,High school diploma,0,High,16,37,13.51,2.7
+552,75,High school diploma,0,High,14,81,2.47,0
+553,71,High school diploma,1,High,55,40,2.5,2.5
+554,32,Graduate degree,0,High,90,12,0,0
+555,51,College degree,1,High,100,50,6,2
+556,30,College degree,1,High,89,8,87.5,0
+557,13,College degree,0,High,80,58,22.41,8.62
+558,40,College degree,0,High,81,30,50,0
+559,66,College degree,1,High,79,23,4.35,0
+560,72,Some college,1,High,12,17,29.41,11.76
+561,58,College degree,1,High,100,12,8.33,8.33
+562,64,High school diploma,1,High,81,47,10.64,0
+563,69,College degree,1,High,27,44,4.55,0
+564,62,College degree,1,High,0,46,4.35,2.17
+565,69,College degree,1,High,7,12,33.33,25
+566,66,Some college,1,High,84,48,2.08,0
+567,66,College degree,0,High,84,31,9.68,9.68
+568,41,College degree,0,High,6,28,25,7.14
+569,71,Some college,1,High,0,16,0,0
+570,38,Some college,1,High,55,27,3.7,0
+571,73,College degree,1,High,19,74,14.86,0
+572,35,Graduate degree,0,High,87,83,3.61,3.61
+573,29,Some college,other,High,100,84,0,0
+574,42,Some college,1,High,50,17,0,0
+575,69,High school diploma,1,High,100,68,5.88,1.47
+576,37,High school diploma,1,High,10,74,2.7,1.35
+577,46,College degree,1,High,76,15,26.67,13.33
+578,34,High school diploma,0,High,92,11,27.27,27.27
+579,38,Some college,1,High,50,7,0,0
+580,30,College degree,0,High,100,37,29.73,29.73
+581,63,College degree,1,High,19,36,0,0
+582,33,Graduate degree,0,High,100,17,17.65,0
+583,51,Graduate degree,0,High,55,55,0,0
+584,26,High school diploma,0,High,50,14,21.43,0
+585,49,Some college,1,High,81,43,4.65,2.33
+586,47,Graduate degree,1,High,69,97,2.06,0
+587,69,High school diploma,0,High,0,25,28,0
+588,66,High school diploma,1,High,0,32,6.25,6.25
+589,19,High school diploma,0,High,49,10,30,20
+590,41,Some college,1,High,83,31,6.45,0
+591,29,High school diploma,1,High,51,2,50,50
+592,44,High school diploma,1,High,0,85,8.24,7.06
+593,28,College degree,0,High,0,16,0,0
+594,29,College degree,1,High,48,48,0,0
+595,72,Graduate degree,0,High,8,61,1.64,0
+596,71,College degree,1,High,66,46,10.87,0
+597,28,College degree,1,High,37,37,5.41,0
+598,70,Graduate degree,0,High,81,61,1.64,0
+599,36,College degree,0,High,0,63,12.7,11.11
+600,71,Some college,1,High,7,142,9.15,8.45
+601,26,High school diploma,1,High,47,79,7.59,1.27
+602,69,Some college,0,High,89,77,1.3,0
+603,66,College degree,1,High,9,52,7.69,1.92
+604,73,Graduate degree,1,High,100,91,1.1,0
+605,53,College degree,1,High,100,46,8.7,4.35
+606,74,Graduate degree,1,High,59,51,1.96,1.96
+607,66,College degree,1,High,85,158,6.96,1.27
+608,72,Graduate degree,1,High,50,85,10.59,10.59
+609,48,Some high school,1,High,50,245,2.86,0
+610,35,College degree,0,High,95,62,25.81,24.19
+611,35,College degree,0,High,96,41,34.15,17.07
+612,40,College degree,1,High,50,54,9.26,7.41
+613,72,Some college,1,High,50,58,10.34,1.72
+614,47,High school diploma,0,High,0,24,16.67,4.17
+615,44,Graduate degree,1,High,17,15,0,0
+616,42,College degree,1,High,82,48,0,0
+617,75,Some college,1,High,20,67,2.99,0
+618,53,College degree,0,High,60,44,11.36,0
+619,70,High school diploma,1,High,51,50,6,2
+620,71,Some college,1,High,59,105,1.9,0
+621,57,College degree,1,High,88,76,0,0
+622,63,College degree,1,High,99,65,1.54,0
+623,59,High school diploma,1,High,23,17,0,0
+624,22,Some college,1,High,78,34,0,0
+625,29,College degree,0,High,0,33,0,0
+626,37,College degree,1,High,100,46,0,0
+627,24,High school diploma,1,High,100,86,1.16,0
+628,31,College degree,1,High,52,70,4.29,0
+629,73,Graduate degree,1,High,71,164,8.54,1.22
+630,73,College degree,1,High,8,16,12.5,0
+631,20,Some high school,0,High,0,11,9.09,9.09
+632,55,College degree,1,High,17,12,8.33,8.33
+633,40,Graduate degree,0,High,100,75,9.33,4
+634,19,High school diploma,1,High,100,7,0,0
+635,37,Some college,1,High,15,34,17.65,8.82
+636,71,Some college,1,High,51,41,7.32,0
+637,69,High school diploma,1,High,51,34,17.65,8.82
+638,42,College degree,1,High,49,42,7.14,0
+639,65,College degree,1,High,44,46,8.7,2.17
+640,34,College degree,1,High,80,35,2.86,2.86
+641,40,College degree,1,High,51,34,11.76,2.94
+642,28,High school diploma,1,High,64,29,0,0
+643,48,Some college,0,High,0,74,2.7,1.35
+644,66,Some college,1,High,50,92,7.61,1.09
+645,57,High school diploma,1,High,53,35,2.86,0
+646,46,Some college,1,High,1,60,3.33,0
+647,65,Some college,0,High,51,7,100,100
+648,66,High school diploma,1,High,0,28,14.29,14.29
+649,37,Some high school,1,High,51,16,6.25,0
+650,44,College degree,1,High,0,47,2.13,0
+651,67,Graduate degree,1,High,100,142,1.41,0
+652,27,College degree,1,High,54,42,4.76,4.76
+653,63,High school diploma,1,High,52,31,12.9,0
+654,35,College degree,0,High,89,47,6.38,0
+655,72,Graduate degree,0,High,52,127,8.66,2.36
+656,64,Some college,1,High,65,44,9.09,2.27
+657,60,Graduate degree,other,High,77,60,1.67,0
+658,69,College degree,1,High,40,48,0,0
+659,35,Graduate degree,1,High,100,9,22.22,22.22
+660,49,High school diploma,0,High,50,15,0,0
+661,66,High school diploma,1,High,0,26,7.69,3.85
+662,54,Some high school,1,High,50,14,14.29,14.29
+663,30,Graduate degree,0,High,77,22,31.82,0
+664,33,Some college,1,High,52,26,3.85,0
+665,35,Graduate degree,0,High,100,128,19.53,12.5
+666,66,High school diploma,1,High,0,26,0,0
+667,42,High school diploma,0,High,74,64,6.25,1.56
+668,53,High school diploma,0,High,33,35,0,0
+669,70,High school diploma,0,High,50,40,10,0
+670,73,College degree,0,High,8,55,9.09,5.45
+671,72,College degree,0,High,5,82,4.88,2.44
+672,19,High school diploma,0,High,45,194,3.09,0
+673,68,Some college,0,High,9,36,25,8.33
+674,21,Some college,0,High,43,92,5.43,1.09
+675,56,High school diploma,1,High,49,28,3.57,0
+676,58,College degree,0,High,19,16,0,0
+677,74,Some college,0,High,56,36,2.78,0
+678,43,College degree,1,High,50,46,6.52,0
+679,35,Graduate degree,0,High,100,233,2.15,0.86
+680,19,Some college,0,High,56,24,0,0
+681,66,Some college,0,High,31,76,5.26,3.95
+682,44,Some college,1,High,5,23,4.35,0
+683,71,High school diploma,1,High,89,57,1.75,0
+684,42,Some college,1,High,89,19,0,0
+685,68,Some college,1,High,1,42,4.76,4.76
+686,66,College degree,0,High,97,21,19.05,0
+687,54,College degree,1,High,73,133,0,0
+688,69,College degree,1,High,87,85,3.53,0
+689,54,Graduate degree,0,High,71,68,11.76,8.82
+690,69,College degree,1,High,80,54,11.11,3.7
+691,67,College degree,0,High,0,11,18.18,0
+692,72,Some college,0,High,0,18,0,0
+693,65,College degree,0,High,0,89,1.12,1.12
+694,68,College degree,0,High,100,58,12.07,6.9
+695,53,College degree,1,High,77,62,4.84,1.61
+696,73,College degree,1,High,100,28,50,0
+697,59,College degree,0,High,0,37,16.22,5.41
+698,49,College degree,1,High,11,25,0,0
+699,67,Some college,1,High,14,58,10.34,1.72
+700,70,Some college,1,High,86,81,0,0
+701,30,Some college,1,High,50,17,0,0
+702,53,College degree,0,High,28,16,43.75,25
+703,75,High school diploma,0,High,50,13,0,0
+704,49,High school diploma,1,High,0,67,4.48,0
+705,64,Some college,0,High,50,39,0,0
+706,60,High school diploma,0,High,50,40,0,0
+707,60,High school diploma,0,High,18,63,6.35,3.17
+708,64,High school diploma,0,High,1,57,3.51,0
+709,54,High school diploma,1,High,51,37,0,0
+710,64,College degree,1,High,98,45,4.44,2.22
+711,73,Some college,1,High,71,103,3.88,0
+712,70,Graduate degree,1,High,29,62,3.23,0
+713,75,Some college,1,High,17,64,18.75,12.5
+714,70,Graduate degree,0,High,10,16,0,0
+715,37,College degree,1,High,52,120,5.83,0.83
+716,71,Graduate degree,1,High,100,49,4.08,0
+717,68,College degree,1,High,50,93,4.3,3.23
+718,67,Some college,0,High,50,34,2.94,0
+719,74,Graduate degree,1,High,93,16,18.75,0
+720,67,Some college,0,High,23,48,4.17,0
+721,71,College degree,0,High,100,36,0,0
+722,68,College degree,1,High,50,43,2.33,0
+723,74,Graduate degree,1,High,4,41,2.44,2.44
+724,32,High school diploma,0,High,100,16,37.5,37.5
+725,45,Some college,1,High,50,27,7.41,3.7
+726,32,High school diploma,0,High,98,10,70,10
+727,45,College degree,1,High,48,9,11.11,11.11
+728,66,High school diploma,1,High,0,66,3.03,0
+729,75,High school diploma,0,High,50,35,8.57,0
+730,59,Graduate degree,0,High,51,41,12.2,0
+731,51,College degree,1,High,11,29,6.9,6.9
+732,67,College degree,0,High,89,80,2.5,1.25
+733,66,College degree,1,High,98,16,6.25,0
+734,47,High school diploma,1,High,53,62,3.23,0
+735,66,College degree,1,High,50,140,2.86,2.14
+736,45,Some college,1,High,100,61,3.28,1.64
+737,66,High school diploma,1,High,58,54,7.41,1.85
+738,70,High school diploma,1,High,53,73,0,0
+739,54,Some college,1,High,38,77,9.09,1.3
+740,62,Some college,1,High,71,77,6.49,0
+741,66,High school diploma,1,High,0,18,0,0
+742,52,Some college,1,High,16,87,3.45,1.15
+743,33,College degree,1,High,0,48,0,0
+744,60,College degree,1,High,100,244,12.7,0.82
+745,73,Graduate degree,1,High,14,46,6.52,0
+746,64,Some college,1,High,100,15,0,0
+747,71,Some college,1,High,50,42,0,0
+748,38,High school diploma,1,High,52,23,0,0
+749,58,College degree,1,High,13,22,4.55,4.55
+750,75,Some college,1,High,52,28,7.14,0
+751,70,High school diploma,1,High,100,121,3.31,3.31
+752,63,College degree,1,High,99,124,4.03,2.42
+753,65,Some college,1,High,54,44,4.55,2.27
+754,66,High school diploma,1,High,0,80,0,0
+755,66,Some college,1,High,38,66,6.06,0
+756,75,College degree,1,High,100,171,3.51,0.58
+757,57,High school diploma,0,High,100,12,0,0
+758,67,Some college,1,High,5,26,7.69,3.85
+759,69,College degree,1,High,21,142,1.41,0.7
+760,57,High school diploma,1,High,0,57,12.28,10.53
+761,66,Some college,1,High,50,33,9.09,0
+762,32,College degree,1,High,83,16,6.25,0
+763,67,Some college,1,High,35,138,5.07,4.35
+764,48,High school diploma,1,High,51,40,17.5,17.5
+765,63,Some college,0,High,71,16,12.5,0
+766,67,High school diploma,1,High,50,38,5.26,0
+767,64,College degree,1,High,36,24,16.67,0
+768,56,College degree,1,High,50,58,0,0
+769,58,College degree,1,High,56,46,0,0
+770,46,High school diploma,1,High,37,14,21.43,14.29
+771,69,High school diploma,1,High,0,115,4.35,2.61
+772,67,College degree,1,High,31,68,8.82,0
+773,42,High school diploma,0,High,79,32,0,0
+774,45,College degree,1,High,50,16,0,0
+775,49,High school diploma,1,High,50,65,0,0
+776,36,Some college,1,High,46,21,9.52,4.76
+777,40,College degree,0,High,0,8,62.5,0
+778,61,Graduate degree,1,High,44,68,4.41,0
+779,63,Some college,1,High,66,28,3.57,0
+780,35,Graduate degree,0,High,100,19,21.05,21.05
+781,37,Graduate degree,1,High,100,144,0,0
+782,26,High school diploma,1,High,50,31,22.58,0
+783,40,Some college,1,High,50,128,3.13,2.34
+784,22,Some college,0,High,51,45,0,0
+785,55,High school diploma,1,High,0,12,8.33,0
+786,66,High school diploma,0,High,8,52,1.92,0
+787,65,Some high school,1,High,100,88,4.55,2.27
+788,56,Some college,1,High,22,111,4.5,0
+789,52,Graduate degree,1,High,83,61,0,0
+790,74,High school diploma,1,High,55,33,3.03,0
+791,49,College degree,1,High,39,107,5.61,0.93
+792,55,College degree,1,High,0,83,2.41,2.41
+793,64,College degree,1,High,50,17,5.88,0
+794,33,College degree,0,High,0,64,0,0
+795,67,College degree,1,High,12,50,6,0
+796,49,College degree,1,High,0,24,4.17,4.17
+797,64,Graduate degree,1,High,92,28,3.57,3.57
+798,65,Some college,1,High,70,56,1.79,0
+799,68,College degree,0,High,92,42,2.38,0
+800,70,High school diploma,1,High,50,11,45.45,9.09
+801,56,Some college,1,High,0,48,0,0
+802,32,College degree,0,High,85,86,0,0
+803,39,Some college,1,High,100,34,0,0
+804,60,Some college,1,High,49,39,5.13,0
+805,73,Graduate degree,1,High,56,48,0,0
+806,60,College degree,1,High,100,19,0,0
+807,71,College degree,1,High,62,101,13.86,2.97
+808,43,College degree,1,High,14,69,0,0
+809,61,Some college,1,High,41,55,1.82,0
+810,65,College degree,1,High,100,65,3.08,0
+811,58,Some college,1,High,97,43,13.95,6.98
+812,62,College degree,1,High,61,44,4.55,0
+813,74,Some college,1,High,50,35,0,0
+814,70,Some college,1,High,74,59,6.78,0
+815,24,Some college,0,High,71,79,0,0
+816,65,Some college,1,High,54,63,6.35,1.59
+817,70,Some college,1,High,52,117,9.4,2.56
+818,71,College degree,0,High,9,103,1.94,0
+819,64,College degree,0,High,65,71,0,0
+820,67,Graduate degree,1,High,6,127,4.72,1.57
+821,65,Graduate degree,0,High,0,43,11.63,4.65
+822,53,High school diploma,1,High,84,44,0,0
+823,55,Graduate degree,1,High,88,47,0,0
+824,66,College degree,1,High,15,228,2.63,0.44
+825,35,College degree,0,High,50,62,0,0
+826,40,College degree,0,High,50,24,8.33,0
+827,66,College degree,0,High,29,77,2.6,0
+828,75,Some college,0,High,51,24,0,0
+829,51,College degree,0,High,83,76,2.63,1.32
+830,68,College degree,0,High,0,24,0,0
+831,65,Some college,0,High,82,269,2.23,0
+832,74,Graduate degree,0,High,19,88,1.14,0
+833,50,High school diploma,1,High,83,48,6.25,0
+834,57,High school diploma,1,High,49,45,11.11,0
+835,22,Some college,1,High,90,58,1.72,0
+836,75,Graduate degree,1,High,82,43,16.28,0
+837,67,College degree,1,High,92,100,8,2
+838,39,College degree,0,High,49,16,0,0
+839,24,College degree,1,High,100,18,5.56,0
+840,49,High school diploma,0,High,30,48,4.17,0
+841,44,Some college,1,High,50,66,3.03,0
+842,75,College degree,1,High,100,87,3.45,0
+843,73,College degree,1,High,0,185,2.7,2.16
+844,24,High school diploma,0,High,51,11,45.45,36.36
+845,18,High school diploma,1,High,89,17,0,0
+846,42,Some college,1,High,50,11,0,0
+847,29,College degree,1,High,0,67,2.99,0
+848,28,College degree,1,High,33,24,8.33,0
+849,70,College degree,1,High,30,54,0,0
+850,44,College degree,1,High,59,176,1.14,0
+851,71,College degree,1,High,83,100,2,2
+852,55,High school diploma,1,High,50,68,11.76,4.41
+853,74,Graduate degree,1,High,100,76,0,0
+854,38,College degree,1,High,92,36,0,0
+855,69,Some high school,0,High,0,16,12.5,0
+856,63,Graduate degree,0,High,50,44,0,0
+857,75,College degree,0,High,75,81,2.47,0
+858,67,Graduate degree,0,High,76,29,3.45,0
+859,71,High school diploma,0,High,1,88,3.41,3.41
+860,68,High school diploma,0,High,50,56,1.79,0
+861,75,Some college,0,High,50,17,35.29,0
+862,75,Graduate degree,0,High,0,40,0,0
+863,33,College degree,1,High,94,68,1.47,0
+864,44,High school diploma,0,High,1,19,10.53,10.53
+865,70,Graduate degree,1,High,86,43,6.98,0
+866,65,Graduate degree,0,High,52,32,6.25,3.13
+867,60,College degree,0,High,7,27,11.11,0
+868,68,College degree,0,High,50,122,6.56,1.64
+869,64,Some college,0,High,88,80,2.5,0
+870,67,College degree,0,High,19,56,3.57,0
+871,74,College degree,0,High,56,16,0,0
+872,41,Some college,0,High,7,105,4.76,2.86
+873,69,High school diploma,0,High,20,36,0,0
+874,56,College degree,0,High,77,92,8.7,6.52
+875,41,Some college,0,High,34,111,7.21,0.9
+876,50,Some college,1,High,51,22,9.09,0
+877,33,Some college,0,High,50,61,4.92,0
+878,27,Some high school,0,High,42,47,2.13,0
+879,36,Graduate degree,0,High,98,16,6.25,6.25
+880,35,College degree,0,High,5,116,6.9,1.72
+881,29,High school diploma,0,High,100,39,25.64,15.38
+882,49,Some college,0,High,52,55,0,0
+883,40,Graduate degree,0,High,49,76,10.53,0
+884,56,College degree,0,High,51,33,0,0
+885,62,High school diploma,0,High,100,83,3.61,1.2
+886,56,Some college,0,High,50,19,26.32,10.53
+887,41,Graduate degree,1,High,50,12,66.67,41.67
+888,49,High school diploma,1,Low,46,34,2.94,0
+889,66,College degree,1,High,52,44,4.55,2.27
+890,31,High school diploma,1,High,55,22,0,0
+891,43,Some high school,1,Low,49,29,0,0
+892,58,Some college,0,High,0,25,0,0
+893,65,Some college,1,High,53,66,4.55,1.52
+894,72,Some college,1,Low,41,98,4.08,1.02
+895,,Some high school,1,High,100,41,0,0
+896,61,Some college,1,High,48,29,0,0
+897,71,Graduate degree,0,High,100,86,3.49,1.16
+898,70,High school diploma,1,High,21,21,38.1,4.76
+899,48,Some college,0,High,50,19,0,0
+900,22,College degree,0,Low,0,35,0,0
