@@ -5,7 +5,7 @@ library(effectsize)
 library(tidyverse)
 library(dplyr)
 
-setwd("~/Documents/research/coco/climateImages/NatCC-submission/study2")
+setwd("~/.../study2")
 
 #data import
 s2 <- read.csv("data/study2.csv") %>%

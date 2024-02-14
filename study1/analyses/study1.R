@@ -7,7 +7,7 @@ library(mediation)
 library(tidyverse)
 library(dplyr)
 
-setwd("~/...")
+setwd("~/.../study1")
 
 # to skip all munging, just load data with following commented line and then jump to analyses
 # s1 <- read.csv("data/study1.csv")
